@@ -1,0 +1,16 @@
+{
+    "files": [
+        {
+            "filename": "src/check_load-scripts/check_load.py",
+            "hash": "6de039f4fe9031565005d7ab6a66e6d6"
+        },
+        {
+            "filename": "outputs/logs/checking_data_syntax.log",
+            "hash": "99900edf9f49df3fd48cc1a8b5434b68"
+        },
+        {
+            "filename": "inputs/data.duckdb",
+            "hash": "72de7a8f476c22dd44d3ac1b878d5bd8"
+        }
+    ]
+}

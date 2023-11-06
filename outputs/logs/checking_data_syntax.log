@@ -1,0 +1,43 @@
+INFO:: Starting Checking data syntax process
+INFO:: Configuration file loaded
+INFO:: -Found 1 uploaded files to check and map!
+INFO:: Trying to detect the encoding of the file './inputs/vaccine_effectiveness_synthetic_pop_10k_v.1.1.1.csv'
+INFO:: The file './inputs/vaccine_effectiveness_synthetic_pop_10k_v.1.1.1.csv' follows an encoding format 'ascii' at 1.0 confidence.
+INFO:: Header for the file './inputs/vaccine_effectiveness_synthetic_pop_10k_v.1.1.1.csv':
+
+person_id|age_nm|sex_cd|socecon_lvl_cd|residence_area_cd|country_cd|foreign_bl|exitus_dt|exitus_bl|essential_worker_bl|institutionalized_bl|dose_1_brand_cd|dose_1_dt|dose_2_brand_cd|dose_2_dt|dose_3_brand_cd|dose_3_dt|doses_nm|fully_vaccinated_dt|fully_vaccinated_bl|vaccination_schedule_cd|confirmed_case_dt|confirmed_case_bl|previous_infection_dt|previous_infection_bl|test_type_cd|variant_cd|diabetes_bl|obesity_bl|heart_failure_bl|copd_bl|solid_tumor_without_metastasis_bl|chronic_kidney_disease_bl|sickle_cell_disease_bl|hypertension_bl|chronic_liver_disease_bl|blood_cancer_bl|transplanted_bl|hiv_infection_bl|primary_immunodeficiency_bl|immunosuppression_bl|pregnancy_bl 
+
+INFO:: Inferred separator "|" for "./inputs/vaccine_effectiveness_synthetic_pop_10k_v.1.1.1.csv" file 
+INFO:: Processing entity "person"...
+INFO:: Trying to connect to the database ...
+INFO:: Trying to create the table for entity "person"
+INFO:: Table structure:
+ CREATE TABLE IF NOT EXISTS person(person_id VARCHAR, age_nm BIGINT, sex_cd VARCHAR, socecon_lvl_cd VARCHAR, residence_area_cd VARCHAR, country_cd VARCHAR, foreign_bl BOOLEAN, exitus_dt DATE, exitus_bl BOOLEAN, essential_worker_bl BOOLEAN, institutionalized_bl BOOLEAN, dose_1_brand_cd VARCHAR, dose_1_dt DATE, dose_2_brand_cd VARCHAR, dose_2_dt DATE, dose_3_brand_cd VARCHAR, dose_3_dt DATE, doses_nm BIGINT, fully_vaccinated_dt DATE, fully_vaccinated_bl BOOLEAN, vaccination_schedule_cd VARCHAR, confirmed_case_dt DATE, confirmed_case_bl BOOLEAN, previous_infection_dt DATE, previous_infection_bl BOOLEAN, test_type_cd VARCHAR, variant_cd VARCHAR, diabetes_bl BOOLEAN, obesity_bl BOOLEAN, heart_failure_bl BOOLEAN, copd_bl BOOLEAN, solid_tumor_without_metastasis_bl BOOLEAN, chronic_kidney_disease_bl BOOLEAN, sickle_cell_disease_bl BOOLEAN, hypertension_bl BOOLEAN, chronic_liver_disease_bl BOOLEAN, blood_cancer_bl BOOLEAN, transplanted_bl BOOLEAN, hiv_infection_bl BOOLEAN, primary_immunodeficiency_bl BOOLEAN, immunosuppression_bl BOOLEAN, pregnancy_bl BOOLEAN);
+INFO:: Table successfully created!
+INFO:: One of the uploaded files has been found that matches the entity's configuration.
+INFO:: "person" with ./inputs/vaccine_effectiveness_synthetic_pop_10k_v.1.1.1.csv file
+INFO:: Creating table for entity "person".
+INFO:: Trying to connect to the database ...
+INFO:: Trying to create the table for entity "person"
+INFO:: Table structure:
+ CREATE OR REPLACE TABLE person(person_id VARCHAR, age_nm BIGINT, sex_cd VARCHAR, socecon_lvl_cd VARCHAR, residence_area_cd VARCHAR, country_cd VARCHAR, foreign_bl BOOLEAN, exitus_dt DATE, exitus_bl BOOLEAN, essential_worker_bl BOOLEAN, institutionalized_bl BOOLEAN, dose_1_brand_cd VARCHAR, dose_1_dt DATE, dose_2_brand_cd VARCHAR, dose_2_dt DATE, dose_3_brand_cd VARCHAR, dose_3_dt DATE, doses_nm BIGINT, fully_vaccinated_dt DATE, fully_vaccinated_bl BOOLEAN, vaccination_schedule_cd VARCHAR, confirmed_case_dt DATE, confirmed_case_bl BOOLEAN, previous_infection_dt DATE, previous_infection_bl BOOLEAN, test_type_cd VARCHAR, variant_cd VARCHAR, diabetes_bl BOOLEAN, obesity_bl BOOLEAN, heart_failure_bl BOOLEAN, copd_bl BOOLEAN, solid_tumor_without_metastasis_bl BOOLEAN, chronic_kidney_disease_bl BOOLEAN, sickle_cell_disease_bl BOOLEAN, hypertension_bl BOOLEAN, chronic_liver_disease_bl BOOLEAN, blood_cancer_bl BOOLEAN, transplanted_bl BOOLEAN, hiv_infection_bl BOOLEAN, primary_immunodeficiency_bl BOOLEAN, immunosuppression_bl BOOLEAN, pregnancy_bl BOOLEAN);
+INFO:: Table successfully created!
+INFO:: Processing entity "area"...
+INFO:: Trying to connect to the database ...
+INFO:: Trying to create the table for entity "area"
+INFO:: Table structure:
+ CREATE TABLE IF NOT EXISTS area(calendar_date_dt DATE, residence_area_cd VARCHAR, residence_area_nuts2_cd VARCHAR, country_cd VARCHAR, socecon_lvl_area_nm BIGINT, test_positivity_percentage_area_nm DOUBLE, cumulative_confirmed_cases_nm BIGINT, variant_area_cd VARCHAR);
+INFO:: Table successfully created!
+WARNING:: No file of the uploaded files has been found that matches the header with the configuration of the "area" entity.!
+INFO:: Starting the check of the files that do match an entity.
+INFO:: [{'entity_name': 'person', 'entity_variables': ['person_id', 'age_nm', 'sex_cd', 'socecon_lvl_cd', 'residence_area_cd', 'country_cd', 'foreign_bl', 'exitus_dt', 'exitus_bl', 'essential_worker_bl', 'institutionalized_bl', 'dose_1_brand_cd', 'dose_1_dt', 'dose_2_brand_cd', 'dose_2_dt', 'dose_3_brand_cd', 'dose_3_dt', 'doses_nm', 'fully_vaccinated_dt', 'fully_vaccinated_bl', 'vaccination_schedule_cd', 'confirmed_case_dt', 'confirmed_case_bl', 'previous_infection_dt', 'previous_infection_bl', 'test_type_cd', 'variant_cd', 'diabetes_bl', 'obesity_bl', 'heart_failure_bl', 'copd_bl', 'solid_tumor_without_metastasis_bl', 'chronic_kidney_disease_bl', 'sickle_cell_disease_bl', 'hypertension_bl', 'chronic_liver_disease_bl', 'blood_cancer_bl', 'transplanted_bl', 'hiv_infection_bl', 'primary_immunodeficiency_bl', 'immunosuppression_bl', 'pregnancy_bl'], 'entity_formats': ['string', 'integer', 'string', 'string', 'string', 'string', 'boolean', 'date', 'boolean', 'boolean', 'boolean', 'string', 'date', 'string', 'date', 'string', 'date', 'integer', 'date', 'boolean', 'string', 'date', 'boolean', 'date', 'boolean', 'string', 'string', 'boolean', 'boolean', 'boolean', 'boolean', 'boolean', 'boolean', 'boolean', 'boolean', 'boolean', 'boolean', 'boolean', 'boolean', 'boolean', 'boolean', 'boolean'], 'uploaded_filename_clean': ['vaccine_effectiveness_synthetic_pop_10k_v.1.1.1.csv'], 'uploaded_filename': ['./inputs/vaccine_effectiveness_synthetic_pop_10k_v.1.1.1.csv'], 'separator': ['|'], 'encoding': ['ascii']}, {'entity_name': 'area', 'entity_variables': ['calendar_date_dt', 'residence_area_cd', 'residence_area_nuts2_cd', 'country_cd', 'socecon_lvl_area_nm', 'test_positivity_percentage_area_nm', 'cumulative_confirmed_cases_nm', 'variant_area_cd'], 'entity_formats': ['date', 'string', 'string', 'string', 'integer', 'double', 'integer', 'string'], 'uploaded_filename_clean': None, 'uploaded_filename': None, 'separator': None, 'encoding': None}]
+INFO:: Trying to read the file with the configuration provided.
+INFO:: 10000 records read.
+INFO:: Trying to connect to the database ...
+INFO:: Connected!
+INFO:: Trying to load records in the table "person"
+INFO:: ./inputs/vaccine_effectiveness_synthetic_pop_10k_v.1.1.1.csv -> LOADED!
+The information from the files has been loaded into the embedded database in case of success of the check process.
+Proceeding to delete the csv files uploaded by the user.
+
+ /home/mambauser/projects/by-covid_baseline-use-case/src/check_load-scripts/inputs/vaccine_effectiveness_synthetic_pop_10k_v.1.1.1.csv deleted!

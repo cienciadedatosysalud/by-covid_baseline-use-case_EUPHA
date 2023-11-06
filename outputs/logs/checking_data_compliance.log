@@ -1,0 +1,18 @@
+INFO:: Starting Checking data compliance with validation rules process
+INFO:: Configuration file loaded.
+INFO:: Trying to connect to the database ...
+INFO:: Checking the conformity of the data with the validation rules for the "person" entity.
+INFO:: Counting total registries for the "person" entity.
+INFO:: Counting NA values for the "person"'s variables.
+INFO:: Starting validation rules checking
+INFO:: Checking rule - " age_nm BETWEEN 15 AND 115 "
+INFO:: 9964 entries passed the rule.
+INFO:: Checking rule - " sex_cd IN ('0', '1', '2', '9') "
+INFO:: 10000 entries passed the rule.
+INFO:: Checking rule - " doses_nm BETWEEN 0 AND 10 "
+INFO:: 10000 entries passed the rule.
+INFO:: Checking the conformity of the data with the validation rules for the "area" entity.
+INFO:: Counting total registries for the "area" entity.
+INFO:: Counting NA values for the "area"'s variables.
+INFO:: Starting validation rules checking
+INFO:: validator_output.json created.

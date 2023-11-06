@@ -1,0 +1,36 @@
+classification_system,code,code_clean,description,source
+snomed-ct,86406008,86406008,Human immunodeficiency virus infection,https://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&conceptid=86406008
+icd-10-mc,B20,B20,Human immunodeficiency virus [HIV] disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B20.0,B200,HIV disease resulting in mycobacterial infection,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B20.1,B201,HIV disease resulting in other bacterial infections,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B20.2,B202,HIV disease resulting in cytomegaloviral disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B20.3,B203,HIV disease resulting in other viral infections,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B20.4,B204,HIV disease resulting in candidiasis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B20.5,B205,HIV disease resulting in other mycoses,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B20.6,B206,HIV disease resulting in Pneumocystis jirovecii pneumonia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B20.7,B207,HIV disease resulting in multiple infections,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B20.8,B208,HIV disease resulting in other infectious and parasitic diseases,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B20.9,B209,HIV disease resulting in unspecified infectious or parasitic disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B21,B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B21.0,B210,HIV disease resulting in Kaposi sarcoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B21.1,B211,HIV disease resulting in Burkitt lymphoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B21.2,B212,HIV disease resulting in other types of non-Hodgkin lymphoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B21.3,B213,"HIV disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B21.7,B217,HIV disease resulting in multiple malignant neoplasms,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B21.8,B218,HIV disease resulting in other malignant neoplasms,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B21.9,B219,HIV disease resulting in unspecified malignant neoplasm,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B22,B22,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B22.0,B220,HIV disease resulting in encephalopathy,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B22.1,B221,HIV disease resulting in lymphoid interstitial pneumonitis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B22.2,B222,HIV disease resulting in wasting syndrome HIV disease resulting in failure to thrive Slim disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B22.7,B227,HIV disease resulting in multiple diseases classified elsewhere,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B23,B23,Human immunodeficiency virus [HIV] disease resulting in other conditions,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B23.0,B230,Acute HIV infection syndrome,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B23.1,B231,HIV disease resulting in (persistent) generalized lymphadenopathy,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B23.2,B232,"HIV disease resulting in haematological and immunological abnormalities, not elsewhere classified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B23.8,B238,HIV disease resulting in other specified conditions,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,B24,B24,Unspecified human immunodeficiency virus [HIV] disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z21,Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,042,42,human immunodeficiency virus [hiv] disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V08,V08,asymptomatic hiv infection status,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+e90 (Belgian pseudopathology codes),adg17,e90_VIH (FL_E90_HIV),HIV,

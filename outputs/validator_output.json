@@ -1,0 +1,251 @@
+{
+    "info": [
+        {
+            "entity": "person",
+            "total_registries": 10000,
+            "na_count_list": [
+                {
+                    "label": "person_id",
+                    "na_count": 0
+                },
+                {
+                    "label": "age_nm",
+                    "na_count": 0
+                },
+                {
+                    "label": "sex_cd",
+                    "na_count": 0
+                },
+                {
+                    "label": "socecon_lvl_cd",
+                    "na_count": 0
+                },
+                {
+                    "label": "residence_area_cd",
+                    "na_count": 0
+                },
+                {
+                    "label": "country_cd",
+                    "na_count": 0
+                },
+                {
+                    "label": "foreign_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "exitus_dt",
+                    "na_count": 10000
+                },
+                {
+                    "label": "exitus_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "essential_worker_bl",
+                    "na_count": 10000
+                },
+                {
+                    "label": "institutionalized_bl",
+                    "na_count": 1110
+                },
+                {
+                    "label": "dose_1_brand_cd",
+                    "na_count": 950
+                },
+                {
+                    "label": "dose_1_dt",
+                    "na_count": 950
+                },
+                {
+                    "label": "dose_2_brand_cd",
+                    "na_count": 1188
+                },
+                {
+                    "label": "dose_2_dt",
+                    "na_count": 1188
+                },
+                {
+                    "label": "dose_3_brand_cd",
+                    "na_count": 4903
+                },
+                {
+                    "label": "dose_3_dt",
+                    "na_count": 4903
+                },
+                {
+                    "label": "doses_nm",
+                    "na_count": 0
+                },
+                {
+                    "label": "fully_vaccinated_dt",
+                    "na_count": 1000
+                },
+                {
+                    "label": "fully_vaccinated_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "vaccination_schedule_cd",
+                    "na_count": 1000
+                },
+                {
+                    "label": "confirmed_case_dt",
+                    "na_count": 6659
+                },
+                {
+                    "label": "confirmed_case_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "previous_infection_dt",
+                    "na_count": 9750
+                },
+                {
+                    "label": "previous_infection_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "test_type_cd",
+                    "na_count": 6686
+                },
+                {
+                    "label": "variant_cd",
+                    "na_count": 10000
+                },
+                {
+                    "label": "diabetes_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "obesity_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "heart_failure_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "copd_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "solid_tumor_without_metastasis_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "chronic_kidney_disease_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "sickle_cell_disease_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "hypertension_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "chronic_liver_disease_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "blood_cancer_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "transplanted_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "hiv_infection_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "primary_immunodeficiency_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "immunosuppression_bl",
+                    "na_count": 0
+                },
+                {
+                    "label": "pregnancy_bl",
+                    "na_count": 0
+                }
+            ],
+            "catalog_checking": [],
+            "rules": [
+                {
+                    "expression": "age_nm BETWEEN 15 AND 115",
+                    "passed_rule": 9964,
+                    "wrong_lines": [
+                        "907",
+                        "957",
+                        "967",
+                        "1057",
+                        "1196",
+                        "2093",
+                        "2308",
+                        "2375",
+                        "2608",
+                        "2730",
+                        "+26 lines"
+                    ],
+                    "total_wrong_lines": 36
+                },
+                {
+                    "expression": "sex_cd IN ('0', '1', '2', '9')",
+                    "passed_rule": 10000,
+                    "wrong_lines": [],
+                    "total_wrong_lines": 0
+                },
+                {
+                    "expression": "doses_nm BETWEEN 0 AND 10",
+                    "passed_rule": 10000,
+                    "wrong_lines": [],
+                    "total_wrong_lines": 0
+                }
+            ]
+        },
+        {
+            "entity": "area",
+            "total_registries": 0,
+            "na_count_list": [
+                {
+                    "label": "calendar_date_dt",
+                    "na_count": 0
+                },
+                {
+                    "label": "residence_area_cd",
+                    "na_count": 0
+                },
+                {
+                    "label": "residence_area_nuts2_cd",
+                    "na_count": 0
+                },
+                {
+                    "label": "country_cd",
+                    "na_count": 0
+                },
+                {
+                    "label": "socecon_lvl_area_nm",
+                    "na_count": 0
+                },
+                {
+                    "label": "test_positivity_percentage_area_nm",
+                    "na_count": 0
+                },
+                {
+                    "label": "cumulative_confirmed_cases_nm",
+                    "na_count": 0
+                },
+                {
+                    "label": "variant_area_cd",
+                    "na_count": 0
+                }
+            ],
+            "catalog_checking": [],
+            "rules": []
+        }
+    ]
+}

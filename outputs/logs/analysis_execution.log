@@ -1,0 +1,49 @@
+
+
+processing file: analytical-pipeline.QMD
+1/19                                       
+2/19 [metadata and overview]               
+3/19                                       
+4/19 [general settings and loading of data]
+5/19                                       
+6/19 [DQA]                                 
+7/19                                       
+8/19 [validation]                          
+9/19                                       
+10/19 [imputation missing values]           
+11/19                                       
+12/19 [matching]                            
+13/19                                       
+14/19 [descriptive]                         
+15/19                                       
+16/19 [survival analysis]                   
+17/19                                       
+18/19 [runtime end]                         
+19/19                                       
+output file: analytical-pipeline.knit.md
+
+Warning messages:
+1: Database is garbage-collected, use dbDisconnect(con, shutdown=TRUE) or duckdb::duckdb_shutdown(drv) to avoid this. 
+2: Database is garbage-collected, use dbDisconnect(con, shutdown=TRUE) or duckdb::duckdb_shutdown(drv) to avoid this. 
+pandoc 
+  to: html
+  output-file: analytical-pipeline.html
+  standalone: true
+  self-contained: true
+  section-divs: true
+  html-math-method: mathjax
+  wrap: none
+  default-image-extension: png
+  
+metadata
+  document-css: false
+  link-citations: true
+  date-format: long
+  lang: en
+  title: 'BY-COVID - WP5 - Baseline Use Case: SARS-CoV-2 vaccine effectiveness assessment'
+  subtitle: Analytical pipeline
+  always_allow_html: 'yes'
+  title-block-banner: '#27445C'
+  
+Output created: ../../outputs/analytical-pipeline.html
+

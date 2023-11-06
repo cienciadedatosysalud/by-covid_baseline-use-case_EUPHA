@@ -1,0 +1,76 @@
+classification_system,code,code_clean,description,source
+snomed-ct,328383001,328383001,Chronic liver disease (disorder),https://snomedbrowser.com/Codes/Details/328383001
+snomed-ct,19943007,19943007,Cirrhosis of liver (disorder),
+snomed-ct,41309000,41309000,Alcoholic liver damage (disorder),https://snomedbrowser.com/Codes/Details/41309000
+snomed-ct,197352008,197352008,Toxic hepatitis (disorder),https://snomedbrowser.com/Codes/Details/197352008
+snomed-ct,91109007,91109007,Gastric varices (disorder),https://browser.ihtsdotools.org/?perspective=full&conceptId1=91109007&edition=MAIN&release=&languages=en
+snomed-ct,28670008,28670008,Esophageal varices (disorder),https://snomedbrowser.com/Codes/Details/28670008
+snomed-ct,59927004,59927004,Hepatic failure (disorder),https://snomedbrowser.com/Codes/Details/59927004
+snomed-ct,62484002,62484002,Hepatic fibrosis (disorder),https://snomedbrowser.com/Codes/Details/62484002
+snomed-ct,197441003,197441003,Primary sclerosing cholangitis (disorder),
+snomed-ct,420054005,420054005,Alcoholic cirrhosis (disorder),https://www.sciencedirect.com/science/article/pii/S2589537020304326
+icd-10-mc,K70.0,K700,Alcoholic fatty liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K70.1,K701,Alcoholic hepatitis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K70.2,K702,Alcoholic fibrosis and sclerosis of liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K70.3,K703,Alcoholic cirrhosis of liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K70.4,K704,Alcoholic hepatic failure,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K70.9,K709,"Alcoholic liver disease, unspecified",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K71.0,K710,Toxic liver disease with cholestasis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K71.1,K711,Toxic liver disease with hepatic necrosis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K71.2,K712,Toxic liver disease with acute hepatitis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K71.3,K713,Toxic liver disease with chronic persistent hepatitis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K71.4,K714,Toxic liver disease with chronic lobular hepatitis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K71.5,K715,Toxic liver disease with chronic active hepatitis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K71.6,K716,"Toxic liver disease with hepatitis, not elsewhere classified",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K71.7,K717,Toxic liver disease with fibrosis and cirrhosis of liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K71.8,K718,Toxic liver disease with disorders of liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K71.9,K719,Toxic liver disease with disorders of liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K72.0,K720,Acute and subacute hepatic failure,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K72.1,K721,Chronic hepatic failure,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K72.9,K729,"Hepatic failure, unspecified",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K73,K73,"Chronic hepatitis, not elsewhere classified",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K74.0,K740,Hepatic fibrosis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K74.1,K741,Hepatic sclerosis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K74.2,K742,Hepatic fibrosis with hepatic sclerosis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K74.3,K743,Primary Biliary cirrhosis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K74.4,K744,Secondary biliary cirrhosis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K74.5,K745,"Biliary cirrhosis, unspecified",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K74.6,K746,Other and unspecified cirrhosis of liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K75,K75,Other inflammatory liver diseases,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K76.0,K760,Other diseases of liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K76.1,K761,Chronic passive congestion of liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K76.2,K762,Central haemorrhagic necosis of liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K76.3,K763,Infarction of liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K76.4,K764,Peliosis hepatis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K76.5,K765,Hepatic veno-occlusive disease,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K76.6,K766,Portal hypertension,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K76.7,K767,Hepatorenal syndrome,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K76.8,K768,Other specified diseases of liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K76.9,K769,"Liver disease, unspecified",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,K77,K77,Liver disorders in diseases classified elsewhere,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,I85.0,I850,Oesophageal varices with bleeding,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,I85.9,I859,Oesophageal varices without bleeding,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,I86.4,I864,Gastric varices,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-10-mc,I98.2,I982,Oesophageal varices in diseases classified elsewhere,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,570,570,Acute/subacute necrosis of liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,571.0,5710,Alcoholic fatty liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,571.1,5711,Acute alcoholic hepatitis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,571.2,5712,Alcoholic cirrhosis of liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,571.3,5713,"Alcoholic liver damage, unspec",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,571.4,5714,Chronic hepatitis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,571.5,5715,Cirrhosis of liver without mention of alcohol,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,571.6,5716,Biliary cirrhosis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,571.8,5718,Other chronic nonalcoholic liver disease,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,571.9,5719,Unspec chronic liver disease without mention of alcohol,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,572.0,5720,Abscess of liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,572.1,5721,Portal pyemia,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,572.2,5722,Hepatic coma,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,572.3,5723,Portal hypertension,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,572.4,5724,Hepatorenal syndrome,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,572.8,5728,Other sequelae of chronic liver disease,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,573,573,Other disorders of liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,456.0,4560,Oesophageal varices with bleeding,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,456.1,4561,Oesophageal varices without bleeding,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+icd-09-mc,456.2,4562,Oesophageal varices in diseases classified elsewhere,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541611/
+e90 (belgian pseudopathology codes),Adg18,e90_Hepatitebc (FL_E90_HEPATITEBC),Reimbursement of multidisciplinary oncological concertation (flag),Chronic hepatitis B and C
+Invitations vaccination,,Invit_Maladies_foie (FL_INVIT_MALADIES_FOIE),Invited to vaccination due to liver disease (flag),

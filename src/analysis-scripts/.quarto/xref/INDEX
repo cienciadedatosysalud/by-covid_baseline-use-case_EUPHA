@@ -1,0 +1,23 @@
+{
+  "analytical-pipeline.QMD": {
+    "analytical-pipeline.html": "3dc14cf9"
+  },
+  "1_DQA.QMD": {
+    "1_DQA.html": "ca8e5781"
+  },
+  "2_validation.QMD": {
+    "2_validation.html": "90f6f953"
+  },
+  "3_imputation.QMD": {
+    "3_imputation.html": "e4095ed7"
+  },
+  "4_matching.QMD": {
+    "4_matching.html": "81263b06"
+  },
+  "5_descriptives.QMD": {
+    "5_descriptive.html": "edcb97d4"
+  },
+  "6_survival-analysis.QMD": {
+    "6_survival-analysis.html": "de5f744a"
+  }
+}

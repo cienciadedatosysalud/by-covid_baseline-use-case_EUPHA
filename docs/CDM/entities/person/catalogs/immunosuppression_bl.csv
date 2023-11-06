@@ -1,0 +1,168 @@
+classification_system,code,code_clean,description,source,observations
+snomed-ct,86553008,86553008,Immunosuppressive therapy,https://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&conceptid=86553008,
+icd-10-mc,Z92.25,Z9225,Personal history of immunosuppression therapy,"https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z77-Z99/Z92-/Z92.25#:~:text=Personal%20history%20of%20immunosuppression%20therapy,-2016%202017%202018&text=Code%20POA%20Exempt-,Z92.,effective%20on%20October%201%2C%202021.",
+icd-09-mc,V87.46,V8746,Personal history of immunosuppressive therapy,"http://www.icd9data.com/2012/Volume1/V01-V91/V87-V87/V87/V87.46.htm#:~:text=2012%20ICD%2D9%2DCM%20Diagnosis,Personal%20history%20of%20immunosuppressive%20therapy",
+atc,S01B,S01B,Anti-inflammatory agents,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA,S01BA,"Corticosteroids, monodrugs",https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA01,S01BA01,Dexamethasone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA02,S01BA02,Hydrocortisone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA03,S01BA03,Cortisone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA04,S01BA04,Prednisolone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA05,S01BA05,Triamcinolone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA06,S01BA06,Betamethasone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA07,S01BA07,Fluorometholone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA08,S01BA08,Medrisone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA09,S01BA09,Clobetasone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA10,S01BA10,Alclomethasone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA11,S01BA11,Desonide,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA12,S01BA12,Formocortal,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA13,S01BA13,Rimexolone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA14,S01BA14,Loteprednol,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BA15,S01BA15,Fluocinolone acetonide,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BB,S01BB,Corticosteroids and mydriatics in combination,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BB01,S01BB01,Hydrocortisone and mydriatics,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BB02,S01BB02,Prednisolone and mydriatics,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BB03,S01BB03,Fluorometholone and mydriatics,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BB04,S01BB04,Betamethasone and mydriatics,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BC,S01BC,Non-steroidal anti-inflammatory agents,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BC01,S01BC01,Indomethacin,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BC02,S01BC02,Oxyphenbutazone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BC03,S01BC03,Diclofenac,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BC04,S01BC04,Flurbiprofen,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BC05,S01BC05,Ketorolac,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BC06,S01BC06,Pyroxicam,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BC07,S01BC07,Bendazac,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BC08,S01BC08,Salicylic acid,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BC09,S01BC09,Pranoprofen,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01BC10,S01BC10,Nepafenac,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01C,S01C,Anti-inflammatory and anti-infective agents in combination,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01CA,S01CA,Corticosteroids and anti-infectives in combination,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01CA01,S01CA01,Dexamethasone and anti-infectives,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01CA02,S01CA02,Prednisolone and anti-infectives,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01CA03,S01CA03,Hydrocortisone and anti-infectives,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01CA04,S01CA04,Fluocortolone and anti-infectives,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01CA05,S01CA05,Betamethasone and anti-infectives,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01CA06,S01CA06,Fludrocortisone and anti-infectives,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01CA07,S01CA07,Fluorometholone and anti-infectives,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01CA08,S01CA08,Methylprednisolone and anti-infectives,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01CA09,S01CA09,Chloroprednisone and anti-infectives,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01CA10,S01CA10,Fluocinolone acetonide and anti-infectives,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,S01CA11,S01CA11,Clobetasone and anti-infectives,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02A,H02A,"Corticosteroids for systemic use, monodrugs",https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AA,H02AA,Mineralocorticoids,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AA01,H02AA01,Aldosterone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AA02,H02AA02,Fludrocortisone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AA03,H02AA03,Deoxycortisone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB,H02AB,Glucocorticoids,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB01,H02AB01,Betamethasone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB02,H02AB02,Dexamethasone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB03,H02AB03,Fluocortolone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB04,H02AB04,Methylprednisolone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB05,H02AB05,Paramethasone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB06,H02AB06,Prednisolone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB07,H02AB07,Prednisone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB08,H02AB08,Triamcinolone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB09,H02AB09,Hydrocortisone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB10,H02AB10,Cortisone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB11,H02AB11,Prednilidene,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB12,H02AB12,Rimexolone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB13,H02AB13,Deflazacor,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB14,H02AB14,Cloprednol,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB15,H02AB15,Meprednisone,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02AB17,H02AB17,Cortivazol,https://www.whocc.no/atc_ddd_index/,more than 6 months therapy duration
+atc,H02B,H02B,"Corticosteroids for systemic use, combinations",https://www.whocc.no/atc_ddd_index/,
+atc,H02BX,H02BX,"Corticosteroids for systemic use, combinations",https://www.whocc.no/atc_ddd_index/,
+atc,H02BX01,H02BX01,"Methylprednisolone, combinations",https://www.whocc.no/atc_ddd_index/,
+atc,H02C,H02C,Anti-adrenal hormone preparations,https://www.whocc.no/atc_ddd_index/,
+atc,H02CA,H02CA,Anticorticosteroids,https://www.whocc.no/atc_ddd_index/,
+atc,H02CA01,H02CA01,Trilostane,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA,L04AA,Selective immunosuppressants,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA02,L04AA02,Muromonab-CD3,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA03,L04AA03,Antilymphocyte immunoglobulin (horse),https://www.whocc.no/atc_ddd_index/,
+atc,L04AA04,L04AA04,Antithymocyte immunoglobulin (rabbit),https://www.whocc.no/atc_ddd_index/,
+atc,L04AA06,L04AA06,Mycophenolic acid,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA10,L04AA10,Sirolimus,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA13,L04AA13,Leflunomide,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA15,L04AA15,Alefacept,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA18,L04AA18,Everolimus,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA19,L04AA19,Gusperimus,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA21,L04AA21,Efalizumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA22,L04AA22,Abetimus,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA23,L04AA23,Natalizumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA24,L04AA24,Abatacept,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA25,L04AA25,Eculizumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA26,L04AA26,Belimumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA27,L04AA27,Fingolimod,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA28,L04AA28,Belatacept,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA29,L04AA29,Tofacitinib,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA31,L04AA31,Teriflunomide,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA32,L04AA32,Apremilast,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA33,L04AA33,Vedolizumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA34,L04AA34,Alemtuzumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA35,L04AA35,Begelomab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA36,L04AA36,Ocrelizumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA37,L04AA37,Baricitinib,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA38,L04AA38,Ozanimod,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA39,L04AA39,Emapalumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA40,L04AA40,Cladribine,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA41,L04AA41,Imlifidase,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA42,L04AA42,Siponimod,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA43,L04AA43,Ravulizumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA44,L04AA44,Upadacitinib,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA45,L04AA45,Filgotinib,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA46,L04AA46,Itacitinib,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA47,L04AA47,Inebilizumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA48,L04AA48,Belumosudil,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA49,L04AA49,Peficitinib,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA50,L04AA50,Ponesimod,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA51,L04AA51,Anifrolumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA52,L04AA52,Ofatumumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA53,L04AA53,Teprotumumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA54,L04AA54,Pegcetacoplan,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA55,L04AA55,Sutimlimab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AA56,L04AA56,Deucravacitinib,https://www.whocc.no/atc_ddd_index/,
+atc,L04AB,L04AB,Tumor necrosis factor alpha (TNF-Î±) inhibitors,https://www.whocc.no/atc_ddd_index/,
+atc,L04AB01,L04AB01,Etanercept,https://www.whocc.no/atc_ddd_index/,
+atc,L04AB02,L04AB02,Infliximab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AB03,L04AB03,Afelimomab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AB04,L04AB04,Adalimumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AB05,L04AB05,Certolizumab pegol,https://www.whocc.no/atc_ddd_index/,
+atc,L04AB06,L04AB06,Golimumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AB07,L04AB07,Opinercept,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC,L04AC,Interleukin inhibitors,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC01,L04AC01,Daclizumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC02,L04AC02,Basiliximab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC03,L04AC03,Anakinra,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC04,L04AC04,Rilonacept,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC05,L04AC05,Ustekinumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC07,L04AC07,Tocilizumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC08,L04AC08,Canakinumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC09,L04AC09,Briakinumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC10,L04AC10,Secukinumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC11,L04AC11,Siltuximab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC12,L04AC12,Brodalumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC13,L04AC13,Ixekizumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC14,L04AC14,Sarilumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC15,L04AC15,Sirukumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC16,L04AC16,Guselkumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC17,L04AC17,Tildrakizumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC18,L04AC18,Risankizumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC19,L04AC19,Satralizumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC20,L04AC20,Netakimab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC21,L04AC21,Bimekizumab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AC22,L04AC22,Spesolimab,https://www.whocc.no/atc_ddd_index/,
+atc,L04AD,L04AD,Calcineurin inhibitors,https://www.whocc.no/atc_ddd_index/,
+atc,L04AD01,L04AD01,Ciclosporin,https://www.whocc.no/atc_ddd_index/,
+atc,L04AD02,L04AD02,Tacrolimus,https://www.whocc.no/atc_ddd_index/,
+atc,L04AD03,L04AD03,Voclosporin,https://www.whocc.no/atc_ddd_index/,
+atc,L04AX,L04AX,Other immunosuppressants,https://www.whocc.no/atc_ddd_index/,
+atc,L04AX01,L04AX01,Azathioprine,https://www.whocc.no/atc_ddd_index/,
+atc,L04AX02,L04AX02,Thalidomide,https://www.whocc.no/atc_ddd_index/,
+atc,L04AX03,L04AX03,Methotrexate,https://www.whocc.no/atc_ddd_index/,
+atc,L04AX04,L04AX04,Lenalidomide,https://www.whocc.no/atc_ddd_index/,
+atc,L04AX05,L04AX05,Pirfenidone,https://www.whocc.no/atc_ddd_index/,
+atc,L04AX06,L04AX06,Pomalidomide,https://www.whocc.no/atc_ddd_index/,
+atc,L04AX07,L04AX07,Dimethyl fumarate,https://www.whocc.no/atc_ddd_index/,
+atc,L04AX08,L04AX08,Darvadstrocel,https://www.whocc.no/atc_ddd_index/,
+atc,L04AX09,L04AX09,Diroximel fumarate,https://www.whocc.no/atc_ddd_index/,
+Invitations vaccination,,Invit_Immunosuppresseurs (FL_INVIT_IMMUNOSUPPRESSEURS),Invited to vaccination due to use of immunosuppressive drug (flag),,

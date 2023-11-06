@@ -1,0 +1,697 @@
+classification_system,code,code_clean,description,source
+snomed-ct,58606001,58606001,Primary immunodeficiency,https://snomedbrowser.com/Codes/Details/58606001
+icd-10-mc,C81.00,C8100,"Nodular lymphocyte predominant Hodgkin lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.01,C8101,"Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.02,C8102,"Nodular lymphocyte predominant Hodgkin lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.03,C8103,"Nodular lymphocyte predominant Hodgkin lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.04,C8104,"Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.05,C8105,"Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.06,C8106,"Nodular lymphocyte predominant Hodgkin lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.07,C8107,"Nodular lymphocyte predominant Hodgkin lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.08,C8108,"Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.09,C8109,"Nodular lymphocyte predominant Hodgkin lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.10,C8110,"Nodular sclerosis Hodgkin lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.11,C8111,"Nodular sclerosis Hodgkin lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.12,C8112,"Nodular sclerosis Hodgkin lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.13,C8113,"Nodular sclerosis Hodgkin lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.14,C8114,"Nodular sclerosis Hodgkin lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.15,C8115,"Nodular sclerosis Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.16,C8116,"Nodular sclerosis Hodgkin lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.17,C8117,"Nodular sclerosis Hodgkin lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.18,C8118,"Nodular sclerosis Hodgkin lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.19,C8119,"Nodular sclerosis Hodgkin lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.20,C8120,"Mixed cellularity Hodgkin lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.21,C8121,"Mixed cellularity Hodgkin lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.22,C8122,"Mixed cellularity Hodgkin lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.23,C8123,"Mixed cellularity Hodgkin lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.24,C8124,"Mixed cellularity Hodgkin lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.25,C8125,"Mixed cellularity Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.26,C8126,"Mixed cellularity Hodgkin lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.27,C8127,"Mixed cellularity Hodgkin lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.28,C8128,"Mixed cellularity Hodgkin lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.29,C8129,"Mixed cellularity Hodgkin lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.30,C8130,"Lymphocyte depleted Hodgkin lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.31,C8131,"Lymphocyte depleted Hodgkin lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.32,C8132,"Lymphocyte depleted Hodgkin lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.33,C8133,"Lymphocyte depleted Hodgkin lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.34,C8134,"Lymphocyte depleted Hodgkin lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.35,C8135,"Lymphocyte depleted Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.36,C8136,"Lymphocyte depleted Hodgkin lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.37,C8137,"Lymphocyte depleted Hodgkin lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.38,C8138,"Lymphocyte depleted Hodgkin lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.39,C8139,"Lymphocyte depleted Hodgkin lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.40,C8140,"Lymphocyte-rich Hodgkin lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.41,C8141,"Lymphocyte-rich Hodgkin lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.42,C8142,"Lymphocyte-rich Hodgkin lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.43,C8143,"Lymphocyte-rich Hodgkin lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.44,C8144,"Lymphocyte-rich Hodgkin lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.45,C8145,"Lymphocyte-rich Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.46,C8146,"Lymphocyte-rich Hodgkin lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.47,C8147,"Lymphocyte-rich Hodgkin lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.48,C8148,"Lymphocyte-rich Hodgkin lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.49,C8149,"Lymphocyte-rich Hodgkin lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.70,C8170,"Other Hodgkin lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.71,C8171,"Other Hodgkin lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.72,C8172,"Other Hodgkin lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.73,C8173,"Other Hodgkin lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.74,C8174,"Other Hodgkin lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.75,C8175,"Other Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.76,C8176,"Other Hodgkin lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.77,C8177,"Other Hodgkin lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.78,C8178,"Other Hodgkin lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.79,C8179,"Other Hodgkin lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.90,C8190,"Hodgkin lymphoma, unspecified, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.91,C8191,"Hodgkin lymphoma, unspecified, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.92,C8192,"Hodgkin lymphoma, unspecified, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.93,C8193,"Hodgkin lymphoma, unspecified, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.94,C8194,"Hodgkin lymphoma, unspecified, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.95,C8195,"Hodgkin lymphoma, unspecified, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.96,C8196,"Hodgkin lymphoma, unspecified, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.97,C8197,"Hodgkin lymphoma, unspecified, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.98,C8198,"Hodgkin lymphoma, unspecified, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C81.99,C8199,"Hodgkin lymphoma, unspecified, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.00,C8200,"Follicular lymphoma grade I, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.01,C8201,"Follicular lymphoma grade I, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.02,C8202,"Follicular lymphoma grade I, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.03,C8203,"Follicular lymphoma grade I, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.04,C8204,"Follicular lymphoma grade I, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.05,C8205,"Follicular lymphoma grade I, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.06,C8206,"Follicular lymphoma grade I, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.07,C8207,"Follicular lymphoma grade I, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.08,C8208,"Follicular lymphoma grade I, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.09,C8209,"Follicular lymphoma grade I, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.10,C8210,"Follicular lymphoma grade II, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.11,C8211,"Follicular lymphoma grade II, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.12,C8212,"Follicular lymphoma grade II, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.13,C8213,"Follicular lymphoma grade II, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.14,C8214,"Follicular lymphoma grade II, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.15,C8215,"Follicular lymphoma grade II, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.16,C8216,"Follicular lymphoma grade II, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.17,C8217,"Follicular lymphoma grade II, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.18,C8218,"Follicular lymphoma grade II, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.19,C8219,"Follicular lymphoma grade II, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.20,C8220,"Follicular lymphoma grade III, unspecified, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.21,C8221,"Follicular lymphoma grade III, unspecified, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.22,C8222,"Follicular lymphoma grade III, unspecified, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.23,C8223,"Follicular lymphoma grade III, unspecified, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.24,C8224,"Follicular lymphoma grade III, unspecified, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.25,C8225,"Follicular lymphoma grade III, unspecified, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.26,C8226,"Follicular lymphoma grade III, unspecified, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.27,C8227,"Follicular lymphoma grade III, unspecified, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.28,C8228,"Follicular lymphoma grade III, unspecified, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.29,C8229,"Follicular lymphoma grade III, unspecified, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.30,C8230,"Follicular lymphoma grade IIIa, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.31,C8231,"Follicular lymphoma grade IIIa, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.32,C8232,"Follicular lymphoma grade IIIa, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.33,C8233,"Follicular lymphoma grade IIIa, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.34,C8234,"Follicular lymphoma grade IIIa, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.35,C8235,"Follicular lymphoma grade IIIa, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.36,C8236,"Follicular lymphoma grade IIIa, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.37,C8237,"Follicular lymphoma grade IIIa, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.38,C8238,"Follicular lymphoma grade IIIa, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.39,C8239,"Follicular lymphoma grade IIIa, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.40,C8240,"Follicular lymphoma grade IIIb, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.41,C8241,"Follicular lymphoma grade IIIb, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.42,C8242,"Follicular lymphoma grade IIIb, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.43,C8243,"Follicular lymphoma grade IIIb, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.44,C8244,"Follicular lymphoma grade IIIb, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.45,C8245,"Follicular lymphoma grade IIIb, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.46,C8246,"Follicular lymphoma grade IIIb, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.47,C8247,"Follicular lymphoma grade IIIb, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.48,C8248,"Follicular lymphoma grade IIIb, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.49,C8249,"Follicular lymphoma grade IIIb, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.50,C8250,"Diffuse follicle center lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.51,C8251,"Diffuse follicle center lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.52,C8252,"Diffuse follicle center lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.53,C8253,"Diffuse follicle center lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.54,C8254,"Diffuse follicle center lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.55,C8255,"Diffuse follicle center lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.56,C8256,"Diffuse follicle center lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.57,C8257,"Diffuse follicle center lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.58,C8258,"Diffuse follicle center lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.59,C8259,"Diffuse follicle center lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.60,C8260,"Cutaneous follicle center lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.61,C8261,"Cutaneous follicle center lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.62,C8262,"Cutaneous follicle center lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.63,C8263,"Cutaneous follicle center lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.64,C8264,"Cutaneous follicle center lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.65,C8265,"Cutaneous follicle center lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.66,C8266,"Cutaneous follicle center lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.67,C8267,"Cutaneous follicle center lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.68,C8268,"Cutaneous follicle center lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.69,C8269,"Cutaneous follicle center lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.80,C8280,"Other types of follicular lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.81,C8281,"Other types of follicular lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.82,C8282,"Other types of follicular lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.83,C8283,"Other types of follicular lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.84,C8284,"Other types of follicular lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.85,C8285,"Other types of follicular lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.86,C8286,"Other types of follicular lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.87,C8287,"Other types of follicular lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.88,C8288,"Other types of follicular lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.89,C8289,"Other types of follicular lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.90,C8290,"Follicular lymphoma, unspecified, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.91,C8291,"Follicular lymphoma, unspecified, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.92,C8292,"Follicular lymphoma, unspecified, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.93,C8293,"Follicular lymphoma, unspecified, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.94,C8294,"Follicular lymphoma, unspecified, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.95,C8295,"Follicular lymphoma, unspecified, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.96,C8296,"Follicular lymphoma, unspecified, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.97,C8297,"Follicular lymphoma, unspecified, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.98,C8298,"Follicular lymphoma, unspecified, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C82.99,C8299,"Follicular lymphoma, unspecified, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.00,C8300,"Small cell B-cell lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.01,C8301,"Small cell B-cell lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.02,C8302,"Small cell B-cell lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.03,C8303,"Small cell B-cell lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.04,C8304,"Small cell B-cell lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.05,C8305,"Small cell B-cell lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.06,C8306,"Small cell B-cell lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.07,C8307,"Small cell B-cell lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.08,C8308,"Small cell B-cell lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.09,C8309,"Small cell B-cell lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.10,C8310,"Mantle cell lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.11,C8311,"Mantle cell lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.12,C8312,"Mantle cell lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.13,C8313,"Mantle cell lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.14,C8314,"Mantle cell lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.15,C8315,"Mantle cell lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.16,C8316,"Mantle cell lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.17,C8317,"Mantle cell lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.18,C8318,"Mantle cell lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.19,C8319,"Mantle cell lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.30,C8330,"Diffuse large B-cell lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.31,C8331,"Diffuse large B-cell lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.32,C8332,"Diffuse large B-cell lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.33,C8333,"Diffuse large B-cell lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.34,C8334,"Diffuse large B-cell lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.35,C8335,"Diffuse large B-cell lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.36,C8336,"Diffuse large B-cell lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.37,C8337,"Diffuse large B-cell lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.38,C8338,"Diffuse large B-cell lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.39,C8339,"Diffuse large B-cell lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.50,C8350,"Lymphoblastic (diffuse) lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.51,C8351,"Lymphoblastic (diffuse) lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.52,C8352,"Lymphoblastic (diffuse) lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.53,C8353,"Lymphoblastic (diffuse) lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.54,C8354,"Lymphoblastic (diffuse) lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.55,C8355,"Lymphoblastic (diffuse) lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.56,C8356,"Lymphoblastic (diffuse) lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.57,C8357,"Lymphoblastic (diffuse) lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.58,C8358,"Lymphoblastic (diffuse) lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.59,C8359,"Lymphoblastic (diffuse) lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.70,C8370,"Burkitt lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.71,C8371,"Burkitt lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.72,C8372,"Burkitt lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.73,C8373,"Burkitt lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.74,C8374,"Burkitt lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.75,C8375,"Burkitt lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.76,C8376,"Burkitt lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.77,C8377,"Burkitt lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.78,C8378,"Burkitt lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.79,C8379,"Burkitt lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.80,C8380,"Other non-follicular lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.81,C8381,"Other non-follicular lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.82,C8382,"Other non-follicular lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.83,C8383,"Other non-follicular lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.84,C8384,"Other non-follicular lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.85,C8385,"Other non-follicular lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.86,C8386,"Other non-follicular lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.87,C8387,"Other non-follicular lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.88,C8388,"Other non-follicular lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.89,C8389,"Other non-follicular lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.90,C8390,"Non-follicular (diffuse) lymphoma, unspecified, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.91,C8391,"Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.92,C8392,"Non-follicular (diffuse) lymphoma, unspecified, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.93,C8393,"Non-follicular (diffuse) lymphoma, unspecified, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.94,C8394,"Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.95,C8395,"Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.96,C8396,"Non-follicular (diffuse) lymphoma, unspecified, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.97,C8397,"Non-follicular (diffuse) lymphoma, unspecified, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.98,C8398,"Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C83.99,C8399,"Non-follicular (diffuse) lymphoma, unspecified, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.00,C8400,"Mycosis fungoides, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.01,C8401,"Mycosis fungoides, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.02,C8402,"Mycosis fungoides, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.03,C8403,"Mycosis fungoides, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.04,C8404,"Mycosis fungoides, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.05,C8405,"Mycosis fungoides, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.06,C8406,"Mycosis fungoides, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.07,C8407,"Mycosis fungoides, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.08,C8408,"Mycosis fungoides, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.09,C8409,"Mycosis fungoides, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.10,C8410,"Sezary disease, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.11,C8411,"Sezary disease, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.12,C8412,"Sezary disease, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.13,C8413,"Sezary disease, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.14,C8414,"Sezary disease, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.15,C8415,"Sezary disease, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.16,C8416,"Sezary disease, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.17,C8417,"Sezary disease, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.18,C8418,"Sezary disease, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.19,C8419,"Sezary disease, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.40,C8440,"Peripheral T-cell lymphoma, not classified, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.41,C8441,"Peripheral T-cell lymphoma, not classified, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.42,C8442,"Peripheral T-cell lymphoma, not classified, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.43,C8443,"Peripheral T-cell lymphoma, not classified, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.44,C8444,"Peripheral T-cell lymphoma, not classified, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.45,C8445,"Peripheral T-cell lymphoma, not classified, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.46,C8446,"Peripheral T-cell lymphoma, not classified, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.47,C8447,"Peripheral T-cell lymphoma, not classified, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.48,C8448,"Peripheral T-cell lymphoma, not classified, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.49,C8449,"Peripheral T-cell lymphoma, not classified, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.60,C8460,"Anaplastic large cell lymphoma, ALK-positive, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.61,C8461,"Anaplastic large cell lymphoma, ALK-positive, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.62,C8462,"Anaplastic large cell lymphoma, ALK-positive, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.63,C8463,"Anaplastic large cell lymphoma, ALK-positive, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.64,C8464,"Anaplastic large cell lymphoma, ALK-positive, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.65,C8465,"Anaplastic large cell lymphoma, ALK-positive, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.66,C8466,"Anaplastic large cell lymphoma, ALK-positive, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.67,C8467,"Anaplastic large cell lymphoma, ALK-positive, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.68,C8468,"Anaplastic large cell lymphoma, ALK-positive, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.69,C8469,"Anaplastic large cell lymphoma, ALK-positive, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.70,C8470,"Anaplastic large cell lymphoma, ALK-negative, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.71,C8471,"Anaplastic large cell lymphoma, ALK-negative, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.72,C8472,"Anaplastic large cell lymphoma, ALK-negative, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.73,C8473,"Anaplastic large cell lymphoma, ALK-negative, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.74,C8474,"Anaplastic large cell lymphoma, ALK-negative, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.75,C8475,"Anaplastic large cell lymphoma, ALK-negative, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.76,C8476,"Anaplastic large cell lymphoma, ALK-negative, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.77,C8477,"Anaplastic large cell lymphoma, ALK-negative, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.78,C8478,"Anaplastic large cell lymphoma, ALK-negative, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.79,C8479,"Anaplastic large cell lymphoma, ALK-negative, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.7A,C847A,"Anaplastic large cell lymphoma, ALK-negative, breast",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.90,C8490,"Mature T/NK-cell lymphomas, unspecified, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.91,C8491,"Mature T/NK-cell lymphomas, unspecified, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.92,C8492,"Mature T/NK-cell lymphomas, unspecified, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.93,C8493,"Mature T/NK-cell lymphomas, unspecified, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.94,C8494,"Mature T/NK-cell lymphomas, unspecified, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.95,C8495,"Mature T/NK-cell lymphomas, unspecified, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.96,C8496,"Mature T/NK-cell lymphomas, unspecified, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.97,C8497,"Mature T/NK-cell lymphomas, unspecified, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.98,C8498,"Mature T/NK-cell lymphomas, unspecified, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.99,C8499,"Mature T/NK-cell lymphomas, unspecified, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.A0,C84A0,"Cutaneous T-cell lymphoma, unspecified, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.A1,C84A1,"Cutaneous T-cell lymphoma, unspecified lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.A2,C84A2,"Cutaneous T-cell lymphoma, unspecified, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.A3,C84A3,"Cutaneous T-cell lymphoma, unspecified, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.A4,C84A4,"Cutaneous T-cell lymphoma, unspecified, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.A5,C84A5,"Cutaneous T-cell lymphoma, unspecified, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.A6,C84A6,"Cutaneous T-cell lymphoma, unspecified, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.A7,C84A7,"Cutaneous T-cell lymphoma, unspecified, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.A8,C84A8,"Cutaneous T-cell lymphoma, unspecified, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.A9,C84A9,"Cutaneous T-cell lymphoma, unspecified, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.Z0,C84Z0,"Other mature T/NK-cell lymphomas, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.Z1,C84Z1,"Other mature T/NK-cell lymphomas, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.Z2,C84Z2,"Other mature T/NK-cell lymphomas, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.Z3,C84Z3,"Other mature T/NK-cell lymphomas, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.Z4,C84Z4,"Other mature T/NK-cell lymphomas, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.Z5,C84Z5,"Other mature T/NK-cell lymphomas, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.Z6,C84Z6,"Other mature T/NK-cell lymphomas, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.Z7,C84Z7,"Other mature T/NK-cell lymphomas, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.Z8,C84Z8,"Other mature T/NK-cell lymphomas, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C84.Z9,C84Z9,"Other mature T/NK-cell lymphomas, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.10,C8510,"Unspecified B-cell lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.11,C8511,"Unspecified B-cell lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.12,C8512,"Unspecified B-cell lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.13,C8513,"Unspecified B-cell lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.14,C8514,"Unspecified B-cell lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.15,C8515,"Unspecified B-cell lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.16,C8516,"Unspecified B-cell lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.17,C8517,"Unspecified B-cell lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.18,C8518,"Unspecified B-cell lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.19,C8519,"Unspecified B-cell lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.20,C8520,"Mediastinal (thymic) large B-cell lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.21,C8521,"Mediastinal (thymic) large B-cell lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.22,C8522,"Mediastinal (thymic) large B-cell lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.23,C8523,"Mediastinal (thymic) large B-cell lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.24,C8524,"Mediastinal (thymic) large B-cell lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.25,C8525,"Mediastinal (thymic) large B-cell lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.26,C8526,"Mediastinal (thymic) large B-cell lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.27,C8527,"Mediastinal (thymic) large B-cell lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.28,C8528,"Mediastinal (thymic) large B-cell lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.29,C8529,"Mediastinal (thymic) large B-cell lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.80,C8580,"Other specified types of non-Hodgkin lymphoma, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.81,C8581,"Other specified types of non-Hodgkin lymphoma, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.82,C8582,"Other specified types of non-Hodgkin lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.83,C8583,"Other specified types of non-Hodgkin lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.84,C8584,"Other specified types of non-Hodgkin lymphoma, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.85,C8585,"Other specified types of non-Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.86,C8586,"Other specified types of non-Hodgkin lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.87,C8587,"Other specified types of non-Hodgkin lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.88,C8588,"Other specified types of non-Hodgkin lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.89,C8589,"Other specified types of non-Hodgkin lymphoma, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.90,C8590,"Non-Hodgkin lymphoma, unspecified, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.91,C8591,"Non-Hodgkin lymphoma, unspecified, lymph nodes of head, face, and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.92,C8592,"Non-Hodgkin lymphoma, unspecified, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.93,C8593,"Non-Hodgkin lymphoma, unspecified, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.94,C8594,"Non-Hodgkin lymphoma, unspecified, lymph nodes of axilla and upper limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.95,C8595,"Non-Hodgkin lymphoma, unspecified, lymph nodes of inguinal region and lower limb",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.96,C8596,"Non-Hodgkin lymphoma, unspecified, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.97,C8597,"Non-Hodgkin lymphoma, unspecified, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.98,C8598,"Non-Hodgkin lymphoma, unspecified, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C85.99,C8599,"Non-Hodgkin lymphoma, unspecified, extranodal and solid organ sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C86.0,C860,"Extranodal NK/T-cell lymphoma, nasal type",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C86.1,C861,Hepatosplenic T-cell lymphoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C86.2,C862,Enteropathy-type (intestinal) T-cell lymphoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C86.3,C863,Subcutaneous panniculitis-like T-cell lymphoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C86.4,C864,Blastic NK-cell lymphoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C86.5,C865,Angioimmunoblastic T-cell lymphoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C86.6,C866,Primary cutaneous CD30-positive T-cell proliferations,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C88.0,C880,Waldenstrom macroglobulinemia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C88.2,C882,Heavy chain disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C88.3,C883,Immunoproliferative small intestinal disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C88.4,C884,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma],https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C88.8,C888,Other malignant immunoproliferative diseases,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C88.9,C889,"Malignant immunoproliferative disease, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C90.00,C9000,Multiple myeloma not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C90.01,C9001,Multiple myeloma in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C90.02,C9002,Multiple myeloma in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C90.20,C9020,Extramedullary plasmacytoma not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C90.21,C9021,Extramedullary plasmacytoma in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C90.22,C9022,Extramedullary plasmacytoma in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C90.30,C9030,Solitary plasmacytoma not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C90.31,C9031,Solitary plasmacytoma in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C90.32,C9032,Solitary plasmacytoma in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C96.0,C960,Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C96.2,C962,Malignant mast cell tumor,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C96.20,C9620,"Malignant mast cell neoplasm, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C96.21,C9621,Aggressive systemic mastocytosis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C96.22,C9622,Mast cell sarcoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C96.29,C9629,Other malignant mast cell neoplasm,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C96.4,C964,Sarcoma of dendritic cells (accessory cells),https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C96.9,C969,"Malignant neoplasm of lymphoid, hematopoietic and related tissue, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C96.A,C96A,Histiocytic sarcoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C96.Z,C96Z,"Other specified malignant neoplasms of lymphoid, hematopoietic and related tissue",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D47.Z9,D47Z9,"Other specified neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D80,D80,Immunodeficiency with predominance of antibody defects,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D80.0,D800,Hereditary hypogammaglobulinaemia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D80.1,D801,Non-familial hypogammaglobulinaemia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D80.2,D802,Selective immunoglobulin A [IgA] deficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D80.3,D803,Selective immunoglobulin G [IgG] subclass deficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D80.4,D804,Selective immunoglobulin M deficiency [IgM] Selective immunoglobulin M [IgM] deficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D80.5,D805,Immunodeficiency with increased immunoglobulin M [IgM] deficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D80.6,D806,Antibody deficiency with near-normal immunoglobulins or with hyperimmunoglobulinemia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D80.7,D807,Transient hypogammaglobulinaemia of childhood,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D80.8,D808,Other immunodeficiencies with predominantly antibody defects,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D80.9,D809,"Immunodeficiency with predominantly antibody defects, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81,D81,Combined immunodeficiencies,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.0,D810,Severe combined immunodeficiency [SCID] with reticular dysgenesis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.1,D811,Severe combined immunodeficiency [SCID] with low T-cell and B-cell count,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.2,D812,Severe combined immunodeficiency [SCID] with low or normal B cell counts,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.3,D813,Adenosine deaminase [ADA] deficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.30,D8130,"adenosine deaminase deficiency, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.31,D8131,"Severe combined immunodeficiency due to adenosine deaminase deficiency [ADA] Adenosine deaminase deficiency, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.32,D8132,Adenosine deaminase 2 deficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.39,D8139,Other type of adenosine deaminase deficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.4,D814,Nezelof syndrome,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.5,D815,Purine nucleoside phosphorylase [PNF] deficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.6,D816,Major histocompatibility complex class I deficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.7,D817,Deficiency of major histocompatibility complex class II,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.8,D818,Other combined immunodeficiencies,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.81,D8181,Deficiency of biotin-dependent carboxylase [Biotinase] deficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.810,D81810,Biotinidase deficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.818,D81818,Other biotin-dependent carboxylase deficiencies,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.819,D81819,"Biotin-dependent carboxylase deficiency, not specified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.89,D8189,Other combined immunodeficiencies,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D81.9,D819,"Combined immunodeficiency, not specified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D82,D82,Immunodeficiency associated with other major defects,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D82.0,D820,Wiskott-Aldrich syndrome,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D82.1,D821,Di George syndrome,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D82.2,D822,Immunodeficiency with micromelic dwarfism [short limbs].,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D82.3,D823,Immunodeficiency secondary to inherited defective response against Epstein and Barr virus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D82.4,D824,Hyperimmunoglobulinemia E syndrome [IgE].,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D82.8,D828,Immunodeficiency associated with other specified major defects,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D82.9,D829,"Immunodeficiency associated with a major defect, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D83,D83,Common variable immunodeficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D83.0,D830,Common variable immunodeficiency with predominance of abnormalities of B-cell count and function,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D83.1,D831,Common variable immunodeficiency with predominance of immunomodulatory T-cell disorders,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D83.2,D832,Common variable immunodeficiency with autoantibodies against B or T cells,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D83.8,D838,Other types of common variable immunodeficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D83.9,D839,"Common variable immunodeficiency, not specified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D84,D84,Other immunodeficiencies,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D84.0,D840,Lymphocyte antigen-1 functional defect [LFA-1].,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D84.1,D841,Defects in the complement system,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D84.8,D848,Other specified immunodeficiencies,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D84.81,D8481,Immunodeficiency due to diseases classified under another heading,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D84.82,D8482,Immunodeficiency due to drugs and external causes,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D84.821,D84821,Immunodeficiency due to drugs,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D84.822,D84822,Immunodeficiency due to external causes,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D84.89,D8489,Other immunodeficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D84.9,D849,"Immunodeficiency, not specified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D86,D86,Sarcoidosis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D86.0,D860,"Sarcoidosis, pulmonary",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D86.1,D861,Sarcoidosis of the lymph nodes,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D86.2,D862,Pulmonary sarcoidosis with lymph node sarcoidosis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D86.3,D863,Sarcoidosis of the skin,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D86.8,D868,Sarcoidosis of other sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D86.81,D8681,Sarcoid meningitis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D86.82,D8682,Multiple cranial nerve palsies in sarcoidosis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D86.83,D8683,Sarcoid iridocyclitis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D86.84,D8684,Sarcoid pyelonephritis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D86.85,D8685,Sarcoid myocarditis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D86.86,D8686,Sarcoid arthropathy,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D86.87,D8687,Sarcoid myositis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D86.89,D8689,Sarcoidosis of other sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D86.9,D869,"Sarcoidosis, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,135,135,sarcoidosis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.00,20000,"reticulosarcoma neom, extranodal and solid org. exc spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.01,20001,"reticulosarcoma g.lymph. head, face and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.02,20002,reticulosarcoma g.lymph. thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.03,20003,reticulosarcoma g.lymph. abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.04,20004,reticulosarcoma g.lymph reticulosarcoma axilla and mm.ss.,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.05,20005,reticulosarcoma g.lymph reticulosarcoma inguinal and mm.ii.,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.06,20006,reticulosarcoma g.lymph. pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.07,20007,reticulosarcoma spleen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.08,20008,reticulosarcoma g.lymph. multiple localisation,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.10,20010,"lymphosarcoma neom, extranodal and solid org. exc. spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.11,20011,lymphosarcoma g.lymph. head neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.12,20012,lymphosarcoma g.lymph. thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.13,20013,lymphosarcoma g.lymph. abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.14,20014,lymphosarcoma g.lymph. axilla and mm.ss,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.15,20015,lymphosarcoma g.lymph. inguinal and mm.ii,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.16,20016,lymphosarcoma g.lymph. pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.17,20017,lymphosarcoma spleen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.18,20018,lymphosarcoma g.lymph. multiple localisation,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.20,20020,"burkitt tumour or lymphoma neom, extranodal and or solid ex baz",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.21,20021,burkitt tumour or lymphoma head neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.22,20022,burkitt tumour or lymphoma thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.23,20023,burkitt tumour or lymphoma abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.24,20024,burkitt tumour or lymphoma axilla and mm.ss,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.25,20025,burkitt tumour or lymphoma inguinal mm.ii,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.26,20026,burkitt tumour or lymphoma pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.27,20027,burkitt tumour or lymphoma spleen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.28,20028,burkitt tumour or lymphoma multiple location,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.30,20030,"marginal zone, unspecified site, extranodal, extranodal and solid organ lymphoma",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.40,20040,"mantle cell lymphoma, unspecified site, extranodal, extranodal and solid organs",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.41,20041,"mantle cell lymphoma, lymph nodes of the head, face and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.42,20042,"mantle cell lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.43,20043,"mantle cell lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.44,20044,"mantle cell lymphoma, axillary and upper limb lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.45,20045,"mantle cell lymphoma, lymph nodes of the groin region and lower limbs",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.46,20046,"mantle cell lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.47,20047,"mantle cell lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.48,20048,"mantle cell lymphoma, lymph nodes of multiple locations",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.50,20050,"primary central nervous system lymphoma, unspecified site, extranodal and solid organ lymphoma",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.51,20051,"primary central nervous system lymphoma, lymph nodes of the head, face and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.52,20052,"primary central nervous system lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.53,20053,"primary central nervous system lymphoma, intra abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.54,20054,"primary central nervous system lymphoma, axillary and upper limb lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.55,20055,"primary central nervous system lymphoma, lymph nodes of the inguinal region and lower extremities",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.56,20056,"primary central nervous system lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.57,20057,"primary central nervous system lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.58,20058,"primary central nervous system lymphoma, lymph nodes of multiple locations",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.60,20060,"anaplastic large cell lymphoma, unspecified site, extranodal and solid organs",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.61,20061,"anaplastic large cell lymphoma, head, face and neck lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.62,20062,"anaplastic large cell lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.63,20063,"anaplastic large cell lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.64,20064,"anaplastic large cell lymphoma, axillary and upper limb lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.65,20065,"anaplastic large cell lymphoma, lymph nodes of the inguinal region and lower limbs",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.66,20066,"anaplastic large cell lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.67,20067,"anaplastic large cell lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.68,20068,"anaplastic large cell lymphoma, multiple site lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.70,20070,"large cell lymphoma, unspecified site, extranodal and solid organs",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.71,20071,"large cell lymphoma, lymph nodes of the head, face and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.72,20072,"large cell lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.73,20073,"large cell lymphoma, intra-abdominal lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.74,20074,"large cell lymphoma, lymph nodes of the axilla and upper limbs",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.75,20075,"large cell lymphoma, lymph nodes of the inguinal region and lower limbs",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.76,20076,"large cell lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.77,20077,"large cell lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.78,20078,"large cell lymphoma, lymph nodes of multiple locations",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.80,20080,"mixed neoplastic lymphosarcoma, extranodal and ex-basal solid lymphomas",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.81,20081,mixed head and neck lymphosarcoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.82,20082,mixed lymphosarcoma thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.83,20083,mixed lymphosarcoma abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.84,20084,mixed lymphosarcoma axilla and mm.ss,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.85,20085,"mixed lymphosarcoma, inguinal and mm.ii",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.86,20086,mixed lymphosarcoma pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.87,20087,mixed lymphosarcoma spleen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,200.88,20088,mixed lymphosarcoma multiple localization,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.00,20100,"Hodgkin's paragranuloma neom, extranodal and or solids ex baz",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.01,20101,hodgkin's paragranuloma head neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.02,20102,hodgkin's paragranuloma thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.03,20103,hodgkin's paragranuloma abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.04,20104,paragranuloma hodgkin's paragranuloma axilla and mm.ss,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.05,20105,hodgkin's paragranuloma inguinal and mm.ii,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.06,20106,hodgkin's paragranuloma pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.07,20107,Hodgkin's paragranuloma spleen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.08,20108,paragranuloma hodgkin's granuloma multiple localisation,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.10,20110,"hodgkin's granuloma neom, extranodal and solid organ spleen exc spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.11,20111,hodgkin granuloma head neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.12,20112,hodgkin granuloma thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.13,20113,hodgkin granuloma abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.14,20114,hodgkin's granuloma axilla and mm.ss,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.15,20115,hodgkin's granuloma inguinal and mm.ii,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.16,20116,hodgkin's granuloma pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.17,20117,hodgkin's granuloma spleen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.18,20118,hodgkin's granuloma multiple localisation,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.20,20120,"Hodgkin's sarcoma neom, extranodal and or solid ex baz",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.21,20121,Hodgkin's sarcoma head and neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.22,20122,hodgkin's sarcoma thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.23,20123,hodgkin sarcoma abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.24,20124,hodgkin's sarcoma axilla and mm.ss,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.25,20125,hodgkin's sarcoma inguinal and mm.ii,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.26,20126,hodgkin's sarcoma pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.27,20127,hodgkin sarcoma spleen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.28,20128,hodgkin's sarcoma multiple localization,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.40,20140,"histiocytic lymphocytic hodgkin's sarcoma neom, extran.and sol.org.",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.41,20141,hodgkin's lymphocytic histiocytic hodgkin's sarcoma head neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.42,20142,Hodgkin's lymphocytic histiocytic Hodgkin's histiocytic thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.43,20143,hodgkin lymphocytic histiocytic hodgkin's lymphocytic abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.44,20144,Hodgkin's lymphocytic histiocytic histiocytic axilla and mm.ss,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.45,20145,Hodgkin's lymphocytic histiocytic histiocyt. inguinal and mm.ii,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.46,20146,histiocytic lymphocytic Hodgkin's disease pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.47,20147,histiocytic lymphocytic Hodgkin's lymphocytic spleen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.48,20148,hodgkin's lymphocytic histiocytic multiple loc.,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.50,20150,"Hodgkin's, nodular sclerosis neom, extranodal and solid sclerosis",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.51,20151,"Hodgkin's, nodular sclerosis head and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.52,20152,"hodgkin's, nodular sclerosis thorax",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.53,20153,"Hodgkin's, nodular sclerosis abdomen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.54,20154,"Hodgkin's, nodular sclerosis axilla and mm.ss",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.55,20155,"Hodgkin's, nodular sclerosis inguinal and mm.ii",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.56,20156,"hodgkin's, nodular sclerosis pelvis",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.57,20157,"Hodgkin's, nodular sclerosis spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.58,20158,"Hodgkin's, nodular sclerosis, localised multiple sclerosis",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.60,20160,"hodgkin, mixed cellularity neom, extranodal and or solids ex",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.61,20161,"Hodgkin's, mixed cellularity head and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.62,20162,"Hodgkin, mixed cellularity thorax",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.63,20163,"Hodgkin's, mixed cellularity abdomen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.64,20164,"hodgkin, mixed cellularity axilla and mm.ss",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.65,20165,"hodgkin, mixed cellularity inguinal and mm.ii",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.66,20166,"hodgkin, mixed cellularity pelvis",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.67,20167,"Hodgkin, mixed cellularity spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.68,20168,"Hodgkin's, mixed cellularity multiple localisation",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.70,20170,"hodgkin, lymphocytic depletion neom, extran. and org solid ex",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.71,20171,"Hodgkin's, lymphocytic depletion head neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.72,20172,"Hodgkin's, lymphocytic depletion thorax",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.73,20173,"Hodgkin's, lymphocytic depletion abdomen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.74,20174,"hodgkin, lymphocytic depletion axilla and mm.ss",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.75,20175,"Hodgkin's, lymphocytic depletion, inguinal and mm.ii",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.76,20176,"Hodgkin's, lymphocytic depletion pelvis",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.77,20177,"Hodgkin's, lymphocytic depletion spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.78,20178,"Hodgkin's disease, lymphocytic depletion loc. multiplex",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.90,20190,unspecified Hodgkin's disease neom,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.91,20191,unspecified Hodgkin's disease head neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.92,20192,unspecified Hodgkin's disease thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.93,20193,unspecified Hodgkin's disease abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.94,20194,unspecified hodgkin's disease axilla and mm.ss,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.95,20195,unspecified Hodgkin's disease unspecified inguinal and mm.ii,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.96,20196,"unspecified Hodgkin's disease, pelvis",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.97,20197,unspecified Hodgkin's disease spleen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,201.98,20198,unspecified hodgkin's disease multiple localization,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.00,20200,"nodular lymphoma neom, extranodal and or solids ex baz",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.01,20201,nodular lymphoma head neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.02,20202,nodular lymphoma thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.03,20203,nodular lymphoma abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.04,20204,nodular lymphoma axilla and mm.ss,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.05,20205,nodular lymphoma inguinal and mm.ii,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.06,20206,nodular lymphoma pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.07,20207,nodular lymphoma spleen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.08,20208,nodular lymphoma multiple localisation,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.10,20210,"mycosis fungoides neom, extranodal and or solids ex baz",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.11,20211,mycosis fungoides head neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.12,20212,mycosis fungoides thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.13,20213,mycosis fungoides abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.14,20214,mycosis fungoides axilla and mm.ss,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.15,20215,mycosis fungoides inguinal mycosis fungoides and mm.ii,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.16,20216,mycosis fungoides pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.17,20217,mycosis fungoides spleen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.18,20218,mycosis fungoides multiple localisation,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.20,20220,"sezary neom, extranodal and ex baz solidus disease",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.21,20221,sezary disease head and neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.22,20222,sezary disease thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.23,20223,sezary disease abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.24,20224,sezary disease axillary and mm.ss,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.25,20225,inguinal sezary disease and mm.ii,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.26,20226,sezary disease pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.27,20227,sezary disease spleen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.28,20228,sezary disease multiple localisation,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.30,20230,"malignant histiocytosis neom, extranodal and or solids ex baz",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.50,20250,"letterer siwe disease neom, extranodal and or ex b solids",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.60,20260,"malignant mastocytosis neom, extranodal and or solids ex spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.61,20261,malignant mastocytosis head neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.62,20262,malignant mastocytosis thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.63,20263,malignant mastocytosis abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.64,20264,malignant mastocytosis axilla and mm.ss,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.65,20265,"malignant mastocytosis, inguinal and mm.ii",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.66,20266,malignant mastocytosis pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.67,20267,malignant mastocytosis spleen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.68,20268,malignant mastocytosis multiple localization,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.70,20270,"peripheral t-cell lymphoma, unspecified site, extranodal and solid organs",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.71,20271,"peripheral t-cell lymphoma, lymph nodes of head, face and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.72,20272,"peripheral t-cell lymphoma, intrathoracic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.73,20273,"peripheral t-cell lymphoma, intra-abdominal",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.74,20274,"peripheral t-cell lymphoma, lymph nodes of the axilla and upper limbs",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.75,20275,"peripheral t-cell lymphoma, lymph nodes of the inguinal region and lower limbs",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.76,20276,"peripheral t-cell lymphoma, intrapelvic lymph nodes",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.77,20277,"peripheral t-cell lymphoma, spleen",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.78,20278,"peripheral t-cell lymphoma, lymph nodes of multiple sites",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.80,20280,"ncoc neom, extranodal and solid ex spleen lymphoma",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.81,20281,ncoc lymphoma head neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.82,20282,ncoc lymphoma thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.83,20283,ncoc lymphoma abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.84,20284,ncoc lymphoma axilla and mm.ss,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.85,20285,ncoc inguinal lymphoma and mm.ii,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.86,20286,ncoc lymphoma pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.87,20287,ncoc lymphoma spleen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.88,20288,ncoc lymphoma multiple localization,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.90,20290,"lymphoid/histiocytic neoplasm, extranodal and sun neo malignancy",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.91,20291,neo mal neom head face neck lymphatic gg.,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.92,20292,neo mal neom intrathoracic lymphatic gg.,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.93,20293,neo mal neom intra-abdominal lymphatic glands,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.94,20294,neo mal neom lymphatic glymphatics axilla/mm.ss.,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.95,20295,neo mal neom inguinal/mm.ii. lymphatic gg.,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.96,20296,neo mal neom intrapelvic lymphatic gg.,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.97,20297,spleen neo malignant lymphoid neoplasm,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.98,20298,lymphoid neoplasm/histiocytic neoplasm loc. multipl.,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,203.00,20300,multiple myeloma with no mention of having reached remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,203.01,20301,multiple myeloma in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,203.02,20302,relapsed multiple myeloma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,203.80,20380,other immunoproliferative neoplasms not mentioned as having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,203.81,20381,other immunoproliferative neoplasms in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,203.82,20382,other immunoproliferative neoplasms in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,238.79,23879,other lymphoid and haematopoietic tissues,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,273.3,2733,macroglobulinemia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279,279,disorders involving the immune mechanism,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.0,2790,humoral immunity deficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.00,27900,unspecified hypogammaglobulinemia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.01,27901,selective iga immunodeficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.02,27902,selective igm immunodeficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.03,27903,other selective immunoglobulin deficiencies,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.04,27904,congenital hypogammaglobulinaemia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.05,27905,immunodeficiency with increased igm,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.06,27906,common variable immunodeficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.09,27909,other humoral immunity deficiencies,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.1,2791,cell-mediated immunity deficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.10,27910,"immunodeficiency with t-cell deficiency, not specified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.11,27911,di george syndrome,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.12,27912,wiskott aldrich syndrome,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.13,27913,nezelof syndrome,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.19,27919,other cell-mediated immunity deficiencies,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.2,2792,combined immunodeficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.3,2793,unspecified immunodeficiency,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.4,2794,"autoimmune disease, not elsewhere classified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.49,27949,"autoimmune disease, not elsewhere classified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.8,2798,other specified disorders involving the immune mechanism,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,279.9,2799,disorders of unspecified immune mechanism,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp

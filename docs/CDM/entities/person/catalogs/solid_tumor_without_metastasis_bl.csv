@@ -1,0 +1,950 @@
+classification_system,code,code_clean,description,source
+snomed-ct,369757002,369757002,Solid tumor configuration,https://phinvads.cdc.gov/vads/http:/phinvads.cdc.gov/vads/ViewCodeSystemConcept.action?oid=2.16.840.1.113883.6.96&code=369757002
+icd-10-mc,C00.0,C000,Malignant neoplasm of external upper lip,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C00.1,C001,Malignant neoplasm of external lower lip,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C00.2,C002,"Malignant neoplasm of external lip, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C00.3,C003,"Malignant neoplasm of upper lip, inner aspect",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C00.4,C004,"Malignant neoplasm of lower lip, inner aspect",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C00.5,C005,"Malignant neoplasm of lip, unspecified, inner aspect",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C00.6,C006,"Malignant neoplasm of commissure of lip, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C00.8,C008,Malignant neoplasm of overlapping sites of lip,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C00.9,C009,"Malignant neoplasm of lip, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C01,C01,Malignant neoplasm of base of tongue,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C02.0,C020,Malignant neoplasm of dorsal surface of tongue,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C02.1,C021,Malignant neoplasm of border of tongue,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C02.2,C022,Malignant neoplasm of ventral surface of tongue,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C02.3,C023,"Malignant neoplasm of anterior two-thirds of tongue, part unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C02.4,C024,Malignant neoplasm of lingual tonsil,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C02.8,C028,Malignant neoplasm of overlapping sites of tongue,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C02.9,C029,"Malignant neoplasm of tongue, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C03.0,C030,Malignant neoplasm of upper gum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C03.1,C031,Malignant neoplasm of lower gum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C03.9,C039,"Malignant neoplasm of gum, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C04.0,C040,Malignant neoplasm of anterior floor of mouth,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C04.1,C041,Malignant neoplasm of lateral floor of mouth,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C04.8,C048,Malignant neoplasm of overlapping sites of floor of mouth,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C04.9,C049,"Malignant neoplasm of floor of mouth, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C05.0,C050,Malignant neoplasm of hard palate,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C05.1,C051,Malignant neoplasm of soft palate,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C05.2,C052,Malignant neoplasm of uvula,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C05.8,C058,Malignant neoplasm of overlapping sites of palate,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C05.9,C059,"Malignant neoplasm of palate, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C06.0,C060,Malignant neoplasm of cheek mucosa,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C06.1,C061,Malignant neoplasm of vestibule of mouth,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C06.2,C062,Malignant neoplasm of retromolar area,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C06.80,C0680,Malignant neoplasm of overlapping sites of unspecified parts of mouth,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C06.89,C0689,Malignant neoplasm of overlapping sites of other parts of mouth,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C06.9,C069,"Malignant neoplasm of mouth, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C07,C07,Malignant neoplasm of parotid gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C08.0,C080,Malignant neoplasm of submandibular gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C08.1,C081,Malignant neoplasm of sublingual gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C08.9,C089,"Malignant neoplasm of major salivary gland, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C09.0,C090,Malignant neoplasm of tonsillar fossa,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C09.1,C091,Malignant neoplasm of tonsillar pillar (anterior) (posterior),https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C09.8,C098,Malignant neoplasm of overlapping sites of tonsil,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C09.9,C099,"Malignant neoplasm of tonsil, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C10.0,C100,Malignant neoplasm of vallecula,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C10.1,C101,Malignant neoplasm of anterior surface of epiglottis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C10.2,C102,Malignant neoplasm of lateral wall of oropharynx,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C10.3,C103,Malignant neoplasm of posterior wall of oropharynx,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C10.4,C104,Malignant neoplasm of branchial cleft,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C10.8,C108,Malignant neoplasm of overlapping sites of oropharynx,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C10.9,C109,"Malignant neoplasm of oropharynx, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C11.0,C110,Malignant neoplasm of superior wall of nasopharynx,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C11.1,C111,Malignant neoplasm of posterior wall of nasopharynx,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C11.2,C112,Malignant neoplasm of lateral wall of nasopharynx,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C11.3,C113,Malignant neoplasm of anterior wall of nasopharynx,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C11.8,C118,Malignant neoplasm of overlapping sites of nasopharynx,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C11.9,C119,"Malignant neoplasm of nasopharynx, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C12,C12,Malignant neoplasm of pyriform sinus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C13.0,C130,Malignant neoplasm of postcricoid region,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C13.1,C131,"Malignant neoplasm of aryepiglottic fold, hypopharyngeal aspect",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C13.2,C132,Malignant neoplasm of posterior wall of hypopharynx,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C13.8,C138,Malignant neoplasm of overlapping sites of hypopharynx,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C13.9,C139,"Malignant neoplasm of hypopharynx, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C14.0,C140,"Malignant neoplasm of pharynx, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C14.2,C142,Malignant neoplasm of Waldeyer's ring,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C14.8,C148,"Malignant neoplasm of overlapping sites of lip, oral cavity and pharynx",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C15.3,C153,Malignant neoplasm of upper third of esophagus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C15.4,C154,Malignant neoplasm of middle third of esophagus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C15.5,C155,Malignant neoplasm of lower third of esophagus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C15.8,C158,Malignant neoplasm of overlapping sites of esophagus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C15.9,C159,"Malignant neoplasm of esophagus, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C16.0,C160,Malignant neoplasm of cardia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C16.1,C161,Malignant neoplasm of fundus of stomach,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C16.2,C162,Malignant neoplasm of body of stomach,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C16.3,C163,Malignant neoplasm of pyloric antrum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C16.4,C164,Malignant neoplasm of pylorus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C16.5,C165,"Malignant neoplasm of lesser curvature of stomach, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C16.6,C166,"Malignant neoplasm of greater curvature of stomach, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C16.8,C168,Malignant neoplasm of overlapping sites of stomach,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C16.9,C169,"Malignant neoplasm of stomach, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C17.0,C170,Malignant neoplasm of duodenum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C17.1,C171,Malignant neoplasm of jejunum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C17.2,C172,Malignant neoplasm of ileum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C17.3,C173,"Meckel's diverticulum, malignant",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C17.8,C178,Malignant neoplasm of overlapping sites of small intestine,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C17.9,C179,"Malignant neoplasm of small intestine, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C18.0,C180,Malignant neoplasm of cecum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C18.1,C181,Malignant neoplasm of appendix,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C18.2,C182,Malignant neoplasm of ascending colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C18.3,C183,Malignant neoplasm of hepatic flexure,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C18.4,C184,Malignant neoplasm of transverse colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C18.5,C185,Malignant neoplasm of splenic flexure,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C18.6,C186,Malignant neoplasm of descending colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C18.7,C187,Malignant neoplasm of sigmoid colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C18.8,C188,Malignant neoplasm of overlapping sites of colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C18.9,C189,"Malignant neoplasm of colon, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C19,C19,Malignant neoplasm of rectosigmoid junction,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C20,C20,Malignant neoplasm of rectum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C21.0,C210,"Malignant neoplasm of anus, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C21.1,C211,Malignant neoplasm of anal canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C21.2,C212,Malignant neoplasm of cloacogenic zone,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C21.8,C218,"Malignant neoplasm of overlapping sites of rectum, anus and anal canal",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C22.0,C220,Liver cell carcinoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C22.1,C221,Intrahepatic bile duct carcinoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C22.2,C222,Hepatoblastoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C22.3,C223,Angiosarcoma of liver,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C22.4,C224,Other sarcomas of liver,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C22.7,C227,Other specified carcinomas of liver,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C22.8,C228,"Malignant neoplasm of liver, primary, unspecified as to type",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C22.9,C229,"Malignant neoplasm of liver, not specified as primary or secondary",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C23,C23,Malignant neoplasm of gallbladder,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C24.0,C240,Malignant neoplasm of extrahepatic bile duct,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C24.1,C241,Malignant neoplasm of ampulla of Vater,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C24.8,C248,Malignant neoplasm of overlapping sites of biliary tract,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C24.9,C249,"Malignant neoplasm of biliary tract, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C25.0,C250,Malignant neoplasm of head of pancreas,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C25.1,C251,Malignant neoplasm of body of pancreas,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C25.2,C252,Malignant neoplasm of tail of pancreas,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C25.3,C253,Malignant neoplasm of pancreatic duct,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C25.4,C254,Malignant neoplasm of endocrine pancreas,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C25.7,C257,Malignant neoplasm of other parts of pancreas,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C25.8,C258,Malignant neoplasm of overlapping sites of pancreas,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C25.9,C259,"Malignant neoplasm of pancreas, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C26.0,C260,"Malignant neoplasm of intestinal tract, part unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C26.1,C261,Malignant neoplasm of spleen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C26.9,C269,Malignant neoplasm of ill-defined sites within the digestive system,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C30.0,C300,Malignant neoplasm of nasal cavity,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C30.1,C301,Malignant neoplasm of middle ear,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C31.0,C310,Malignant neoplasm of maxillary sinus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C31.1,C311,Malignant neoplasm of ethmoidal sinus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C31.2,C312,Malignant neoplasm of frontal sinus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C31.3,C313,Malignant neoplasm of sphenoid sinus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C31.8,C318,Malignant neoplasm of overlapping sites of accessory sinuses,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C31.9,C319,"Malignant neoplasm of accessory sinus, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C32.0,C320,Malignant neoplasm of glottis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C32.1,C321,Malignant neoplasm of supraglottis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C32.2,C322,Malignant neoplasm of subglottis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C32.3,C323,Malignant neoplasm of laryngeal cartilage,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C32.8,C328,Malignant neoplasm of overlapping sites of larynx,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C32.9,C329,"Malignant neoplasm of larynx, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C33,C33,Malignant neoplasm of trachea,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.00,C3400,Malignant neoplasm of unspecified main bronchus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.01,C3401,Malignant neoplasm of right main bronchus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.02,C3402,Malignant neoplasm of left main bronchus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.10,C3410,"Malignant neoplasm of upper lobe, unspecified bronchus or lung",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.11,C3411,"Malignant neoplasm of upper lobe, right bronchus or lung",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.12,C3412,"Malignant neoplasm of upper lobe, left bronchus or lung",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.2,C342,"Malignant neoplasm of middle lobe, bronchus or lung",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.30,C3430,"Malignant neoplasm of lower lobe, unspecified bronchus or lung",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.31,C3431,"Malignant neoplasm of lower lobe, right bronchus or lung",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.32,C3432,"Malignant neoplasm of lower lobe, left bronchus or lung",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.80,C3480,Malignant neoplasm of overlapping sites of unspecified bronchus and lung,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.81,C3481,Malignant neoplasm of overlapping sites of right bronchus and lung,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.82,C3482,Malignant neoplasm of overlapping sites of left bronchus and lung,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.90,C3490,Malignant neoplasm of unspecified part of unspecified bronchus or lung,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.91,C3491,Malignant neoplasm of unspecified part of right bronchus or lung,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C34.92,C3492,Malignant neoplasm of unspecified part of left bronchus or lung,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C37,C37,Malignant neoplasm of thymus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C38.0,C380,Malignant neoplasm of heart,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C38.1,C381,Malignant neoplasm of anterior mediastinum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C38.2,C382,Malignant neoplasm of posterior mediastinum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C38.3,C383,"Malignant neoplasm of mediastinum, part unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C38.4,C384,Malignant neoplasm of pleura,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C38.8,C388,"Malignant neoplasm of overlapping sites of heart, mediastinum and pleura",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C39.0,C390,"Malignant neoplasm of upper respiratory tract, part unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C39.9,C399,"Malignant neoplasm of lower respiratory tract, part unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.00,C4000,Malignant neoplasm of scapula and long bones of unspecified upper limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.01,C4001,Malignant neoplasm of scapula and long bones of right upper limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.02,C4002,Malignant neoplasm of scapula and long bones of left upper limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.10,C4010,Malignant neoplasm of short bones of unspecified upper limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.11,C4011,Malignant neoplasm of short bones of right upper limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.12,C4012,Malignant neoplasm of short bones of left upper limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.20,C4020,Malignant neoplasm of long bones of unspecified lower limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.21,C4021,Malignant neoplasm of long bones of right lower limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.22,C4022,Malignant neoplasm of long bones of left lower limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.30,C4030,Malignant neoplasm of short bones of unspecified lower limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.31,C4031,Malignant neoplasm of short bones of right lower limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.32,C4032,Malignant neoplasm of short bones of left lower limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.80,C4080,Malignant neoplasm of overlapping sites of bone and articular cartilage of unspecified limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.81,C4081,Malignant neoplasm of overlapping sites of bone and articular cartilage of right limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.82,C4082,Malignant neoplasm of overlapping sites of bone and articular cartilage of left limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.90,C4090,Malignant neoplasm of unspecified bones and articular cartilage of unspecified limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.91,C4091,Malignant neoplasm of unspecified bones and articular cartilage of right limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C40.92,C4092,Malignant neoplasm of unspecified bones and articular cartilage of left limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C41.0,C410,Malignant neoplasm of bones of skull and face,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C41.1,C411,Malignant neoplasm of mandible,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C41.2,C412,Malignant neoplasm of vertebral column,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C41.3,C413,"Malignant neoplasm of ribs, sternum and clavicle",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C41.4,C414,"Malignant neoplasm of pelvic bones, sacrum and coccyx",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C41.9,C419,"Malignant neoplasm of bone and articular cartilage, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.0,C430,Malignant melanoma of lip,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.10,C4310,"Malignant melanoma of unspecified eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.11,C4311,"Malignant melanoma of right eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.111,C43111,"Malignant melanoma of right upper eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.112,C43112,"Malignant melanoma of right lower eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.12,C4312,"Malignant melanoma of left eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.121,C43121,"Malignant melanoma of left upper eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.122,C43122,"Malignant melanoma of left lower eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.20,C4320,Malignant melanoma of unspecified ear and external auricular canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.21,C4321,Malignant melanoma of right ear and external auricular canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.22,C4322,Malignant melanoma of left ear and external auricular canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.30,C4330,Malignant melanoma of unspecified part of face,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.31,C4331,Malignant melanoma of nose,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.39,C4339,Malignant melanoma of other parts of face,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.4,C434,Malignant melanoma of scalp and neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.51,C4351,Malignant melanoma of anal skin,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.52,C4352,Malignant melanoma of skin of breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.59,C4359,Malignant melanoma of other part of trunk,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.60,C4360,"Malignant melanoma of unspecified upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.61,C4361,"Malignant melanoma of right upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.62,C4362,"Malignant melanoma of left upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.70,C4370,"Malignant melanoma of unspecified lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.71,C4371,"Malignant melanoma of right lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.72,C4372,"Malignant melanoma of left lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.8,C438,Malignant melanoma of overlapping sites of skin,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C43.9,C439,"Malignant melanoma of skin, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.00,C4400,Unspecified malignant neoplasm of skin of lip,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.09,C4409,Other specified malignant neoplasm of skin of lip,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.101,C44101,"Unspecified malignant neoplasm of skin of unspecified eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.102,C44102,"Unspecified malignant neoplasm of skin of right eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.1021,C441021,"Unspecified malignant neoplasm of skin of right upper eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.1022,C441022,"Unspecified malignant neoplasm of skin of right lower eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.109,C44109,"Unspecified malignant neoplasm of skin of left eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.1091,C441091,"Unspecified malignant neoplasm of skin of left upper eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.1092,C441092,"Unspecified malignant neoplasm of skin of left lower eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.131,C44131,"Sebaceous cell carcinoma of skin of unspecified eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.1321,C441321,"Sebaceous cell carcinoma of skin of right upper eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.1322,C441322,"Sebaceous cell carcinoma of skin of right lower eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.1391,C441391,"Sebaceous cell carcinoma of skin of left upper eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.1392,C441392,"Sebaceous cell carcinoma of skin of left lower eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.191,C44191,"Other specified malignant neoplasm of skin of unspecified eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.192,C44192,"Other specified malignant neoplasm of skin of right eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.1921,C441921,"Other specified malignant neoplasm of skin of right upper eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.1922,C441922,"Other specified malignant neoplasm of skin of right lower eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.199,C44199,"Other specified malignant neoplasm of skin of left eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.1991,C441991,"Other specified malignant neoplasm of skin of left upper eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.1992,C441992,"Other specified malignant neoplasm of skin of left lower eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.201,C44201,Unspecified malignant neoplasm of skin of unspecified ear and external auricular canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.202,C44202,Unspecified malignant neoplasm of skin of right ear and external auricular canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.209,C44209,Unspecified malignant neoplasm of skin of left ear and external auricular canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.291,C44291,Other specified malignant neoplasm of skin of unspecified ear and external auricular canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.292,C44292,Other specified malignant neoplasm of skin of right ear and external auricular canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.299,C44299,Other specified malignant neoplasm of skin of left ear and external auricular canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.300,C44300,Unspecified malignant neoplasm of skin of unspecified part of face,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.301,C44301,Unspecified malignant neoplasm of skin of nose,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.309,C44309,Unspecified malignant neoplasm of skin of other parts of face,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.390,C44390,Other specified malignant neoplasm of skin of unspecified parts of face,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.391,C44391,Other specified malignant neoplasm of skin of nose,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.399,C44399,Other specified malignant neoplasm of skin of other parts of face,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.40,C4440,Unspecified malignant neoplasm of skin of scalp and neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.49,C4449,Other specified malignant neoplasm of skin of scalp and neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.500,C44500,Unspecified malignant neoplasm of anal skin,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.501,C44501,Unspecified malignant neoplasm of skin of breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.509,C44509,Unspecified malignant neoplasm of skin of other part of trunk,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.590,C44590,Other specified malignant neoplasm of anal skin,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.591,C44591,Other specified malignant neoplasm of skin of breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.599,C44599,Other specified malignant neoplasm of skin of other part of trunk,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.601,C44601,"Unspecified malignant neoplasm of skin of unspecified upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.602,C44602,"Unspecified malignant neoplasm of skin of right upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.609,C44609,"Unspecified malignant neoplasm of skin of left upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.691,C44691,"Other specified malignant neoplasm of skin of unspecified upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.692,C44692,"Other specified malignant neoplasm of skin of right upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.699,C44699,"Other specified malignant neoplasm of skin of left upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.701,C44701,"Unspecified malignant neoplasm of skin of unspecified lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.702,C44702,"Unspecified malignant neoplasm of skin of right lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.709,C44709,"Unspecified malignant neoplasm of skin of left lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.791,C44791,"Other specified malignant neoplasm of skin of unspecified lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.792,C44792,"Other specified malignant neoplasm of skin of right lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.799,C44799,"Other specified malignant neoplasm of skin of left lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.80,C4480,Unspecified malignant neoplasm of overlapping sites of skin,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.89,C4489,Other specified malignant neoplasm of overlapping sites of skin,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.90,C4490,"Unspecified malignant neoplasm of skin, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C44.99,C4499,"Other specified malignant neoplasm of skin, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C45.0,C450,Mesothelioma of pleura,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C45.1,C451,Mesothelioma of peritoneum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C45.2,C452,Mesothelioma of pericardium,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C45.7,C457,Mesothelioma of other sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C45.9,C459,"Mesothelioma, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C46.0,C460,Kaposi's sarcoma of skin,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C46.1,C461,Kaposi's sarcoma of soft tissue,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C46.2,C462,Kaposi's sarcoma of palate,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C46.3,C463,Kaposi's sarcoma of lymph nodes,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C46.4,C464,Kaposi's sarcoma of gastrointestinal sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C46.50,C4650,Kaposi's sarcoma of unspecified lung,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C46.51,C4651,Kaposi's sarcoma of right lung,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C46.52,C4652,Kaposi's sarcoma of left lung,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C46.7,C467,Kaposi's sarcoma of other sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C46.9,C469,"Kaposi's sarcoma, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C47.0,C470,"Malignant neoplasm of peripheral nerves of head, face and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C47.10,C4710,"Malignant neoplasm of peripheral nerves of unspecified upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C47.11,C4711,"Malignant neoplasm of peripheral nerves of right upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C47.12,C4712,"Malignant neoplasm of peripheral nerves of left upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C47.20,C4720,"Malignant neoplasm of peripheral nerves of unspecified lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C47.21,C4721,"Malignant neoplasm of peripheral nerves of right lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C47.22,C4722,"Malignant neoplasm of peripheral nerves of left lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C47.3,C473,Malignant neoplasm of peripheral nerves of thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C47.4,C474,Malignant neoplasm of peripheral nerves of abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C47.5,C475,Malignant neoplasm of peripheral nerves of pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C47.6,C476,"Malignant neoplasm of peripheral nerves of trunk, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C47.8,C478,Malignant neoplasm of overlapping sites of peripheral nerves and autonomic nervous system,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C47.9,C479,"Malignant neoplasm of peripheral nerves and autonomic nervous system, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C48.0,C480,Malignant neoplasm of retroperitoneum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C48.1,C481,Malignant neoplasm of specified parts of peritoneum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C48.2,C482,"Malignant neoplasm of peritoneum, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C48.8,C488,Malignant neoplasm of overlapping sites of retroperitoneum and peritoneum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.0,C490,"Malignant neoplasm of connective and soft tissue of head, face and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.10,C4910,"Malignant neoplasm of connective and soft tissue of unspecified upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.11,C4911,"Malignant neoplasm of connective and soft tissue of right upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.12,C4912,"Malignant neoplasm of connective and soft tissue of left upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.20,C4920,"Malignant neoplasm of connective and soft tissue of unspecified lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.21,C4921,"Malignant neoplasm of connective and soft tissue of right lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.22,C4922,"Malignant neoplasm of connective and soft tissue of left lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.3,C493,Malignant neoplasm of connective and soft tissue of thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.4,C494,Malignant neoplasm of connective and soft tissue of abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.5,C495,Malignant neoplasm of connective and soft tissue of pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.6,C496,"Malignant neoplasm of connective and soft tissue of trunk, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.8,C498,Malignant neoplasm of overlapping sites of connective and soft tissue,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.9,C499,"Malignant neoplasm of connective and soft tissue, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.A0,C49A0,"Gastrointestinal stromal tumor, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.A1,C49A1,Gastrointestinal stromal tumor of esophagus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.A2,C49A2,Gastrointestinal stromal tumor of stomach,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.A3,C49A3,Gastrointestinal stromal tumor of small intestine,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.A4,C49A4,Gastrointestinal stromal tumor of large intestine,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.A5,C49A5,Gastrointestinal stromal tumor of rectum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C49.A9,C49A9,Gastrointestinal stromal tumor of other sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.0,C4A0,Merkel cell carcinoma of lip,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.10,C4A10,"Merkel cell carcinoma of unspecified eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.11,C4A11,"Merkel cell carcinoma of right eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.111,C4A111,"Merkel cell carcinoma of right upper eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.112,C4A112,"Merkel cell carcinoma of right lower eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.12,C4A12,"Merkel cell carcinoma of left eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.121,C4A121,"Merkel cell carcinoma of left upper eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.122,C4A122,"Merkel cell carcinoma of left lower eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.20,C4A20,Merkel cell carcinoma of unspecified ear and external auricular canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.21,C4A21,Merkel cell carcinoma of right ear and external auricular canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.22,C4A22,Merkel cell carcinoma of left ear and external auricular canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.30,C4A30,Merkel cell carcinoma of unspecified part of face,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.31,C4A31,Merkel cell carcinoma of nose,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.39,C4A39,Merkel cell carcinoma of other parts of face,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.4,C4A4,Merkel cell carcinoma of scalp and neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.51,C4A51,Merkel cell carcinoma of anal skin,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.52,C4A52,Merkel cell carcinoma of skin of breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.59,C4A59,Merkel cell carcinoma of other part of trunk,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.60,C4A60,"Merkel cell carcinoma of unspecified upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.61,C4A61,"Merkel cell carcinoma of right upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.62,C4A62,"Merkel cell carcinoma of left upper limb, including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.70,C4A70,"Merkel cell carcinoma of unspecified lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.71,C4A71,"Merkel cell carcinoma of right lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.72,C4A72,"Merkel cell carcinoma of left lower limb, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.8,C4A8,Merkel cell carcinoma of overlapping sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C4A.9,C4A9,"Merkel cell carcinoma, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.011,C50011,"Malignant neoplasm of nipple and areola, right female breast",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.012,C50012,"Malignant neoplasm of nipple and areola, left female breast",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.019,C50019,"Malignant neoplasm of nipple and areola, unspecified female breast",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.021,C50021,"Malignant neoplasm of nipple and areola, right male breast",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.022,C50022,"Malignant neoplasm of nipple and areola, left male breast",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.029,C50029,"Malignant neoplasm of nipple and areola, unspecified male breast",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.111,C50111,Malignant neoplasm of central portion of right female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.112,C50112,Malignant neoplasm of central portion of left female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.119,C50119,Malignant neoplasm of central portion of unspecified female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.121,C50121,Malignant neoplasm of central portion of right male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.122,C50122,Malignant neoplasm of central portion of left male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.129,C50129,Malignant neoplasm of central portion of unspecified male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.211,C50211,Malignant neoplasm of upper-inner quadrant of right female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.212,C50212,Malignant neoplasm of upper-inner quadrant of left female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.219,C50219,Malignant neoplasm of upper-inner quadrant of unspecified female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.221,C50221,Malignant neoplasm of upper-inner quadrant of right male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.222,C50222,Malignant neoplasm of upper-inner quadrant of left male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.229,C50229,Malignant neoplasm of upper-inner quadrant of unspecified male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.311,C50311,Malignant neoplasm of lower-inner quadrant of right female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.312,C50312,Malignant neoplasm of lower-inner quadrant of left female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.319,C50319,Malignant neoplasm of lower-inner quadrant of unspecified female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.321,C50321,Malignant neoplasm of lower-inner quadrant of right male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.322,C50322,Malignant neoplasm of lower-inner quadrant of left male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.329,C50329,Malignant neoplasm of lower-inner quadrant of unspecified male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.411,C50411,Malignant neoplasm of upper-outer quadrant of right female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.412,C50412,Malignant neoplasm of upper-outer quadrant of left female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.419,C50419,Malignant neoplasm of upper-outer quadrant of unspecified female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.421,C50421,Malignant neoplasm of upper-outer quadrant of right male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.422,C50422,Malignant neoplasm of upper-outer quadrant of left male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.429,C50429,Malignant neoplasm of upper-outer quadrant of unspecified male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.511,C50511,Malignant neoplasm of lower-outer quadrant of right female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.512,C50512,Malignant neoplasm of lower-outer quadrant of left female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.519,C50519,Malignant neoplasm of lower-outer quadrant of unspecified female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.521,C50521,Malignant neoplasm of lower-outer quadrant of right male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.522,C50522,Malignant neoplasm of lower-outer quadrant of left male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.529,C50529,Malignant neoplasm of lower-outer quadrant of unspecified male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.611,C50611,Malignant neoplasm of axillary tail of right female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.612,C50612,Malignant neoplasm of axillary tail of left female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.619,C50619,Malignant neoplasm of axillary tail of unspecified female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.621,C50621,Malignant neoplasm of axillary tail of right male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.622,C50622,Malignant neoplasm of axillary tail of left male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.629,C50629,Malignant neoplasm of axillary tail of unspecified male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.811,C50811,Malignant neoplasm of overlapping sites of right female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.812,C50812,Malignant neoplasm of overlapping sites of left female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.819,C50819,Malignant neoplasm of overlapping sites of unspecified female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.821,C50821,Malignant neoplasm of overlapping sites of right male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.822,C50822,Malignant neoplasm of overlapping sites of left male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.829,C50829,Malignant neoplasm of overlapping sites of unspecified male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.911,C50911,Malignant neoplasm of unspecified site of right female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.912,C50912,Malignant neoplasm of unspecified site of left female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.919,C50919,Malignant neoplasm of unspecified site of unspecified female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.921,C50921,Malignant neoplasm of unspecified site of right male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.922,C50922,Malignant neoplasm of unspecified site of left male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C50.929,C50929,Malignant neoplasm of unspecified site of unspecified male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C51.0,C510,Malignant neoplasm of labium majus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C51.1,C511,Malignant neoplasm of labium minus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C51.2,C512,Malignant neoplasm of clitoris,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C51.8,C518,Malignant neoplasm of overlapping sites of vulva,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C51.9,C519,"Malignant neoplasm of vulva, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C52,C52,Malignant neoplasm of vagina,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C53.0,C530,Malignant neoplasm of endocervix,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C53.1,C531,Malignant neoplasm of exocervix,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C53.8,C538,Malignant neoplasm of overlapping sites of cervix uteri,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C53.9,C539,"Malignant neoplasm of cervix uteri, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C54.0,C540,Malignant neoplasm of isthmus uteri,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C54.1,C541,Malignant neoplasm of endometrium,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C54.2,C542,Malignant neoplasm of myometrium,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C54.3,C543,Malignant neoplasm of fundus uteri,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C54.8,C548,Malignant neoplasm of overlapping sites of corpus uteri,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C54.9,C549,"Malignant neoplasm of corpus uteri, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C55,C55,"Malignant neoplasm of uterus, part unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C56.1,C561,Malignant neoplasm of right ovary,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C56.2,C562,Malignant neoplasm of left ovary,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C56.3,C563,Malignant neoplasm of bilateral ovaries,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C56.9,C569,Malignant neoplasm of unspecified ovary,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C57.00,C5700,Malignant neoplasm of unspecified fallopian tube,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C57.01,C5701,Malignant neoplasm of right fallopian tube,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C57.02,C5702,Malignant neoplasm of left fallopian tube,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C57.10,C5710,Malignant neoplasm of unspecified broad ligament,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C57.11,C5711,Malignant neoplasm of right broad ligament,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C57.12,C5712,Malignant neoplasm of left broad ligament,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C57.20,C5720,Malignant neoplasm of unspecified round ligament,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C57.21,C5721,Malignant neoplasm of right round ligament,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C57.22,C5722,Malignant neoplasm of left round ligament,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C57.3,C573,Malignant neoplasm of parametrium,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C57.4,C574,"Malignant neoplasm of uterine adnexa, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C57.7,C577,Malignant neoplasm of other specified female genital organs,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C57.8,C578,Malignant neoplasm of overlapping sites of female genital organs,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C57.9,C579,"Malignant neoplasm of female genital organ, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C58,C58,Malignant neoplasm of placenta,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C60.0,C600,Malignant neoplasm of prepuce,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C60.1,C601,Malignant neoplasm of glans penis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C60.2,C602,Malignant neoplasm of body of penis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C60.8,C608,Malignant neoplasm of overlapping sites of penis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C60.9,C609,"Malignant neoplasm of penis, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C61,C61,Malignant neoplasm of prostate,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C62.00,C6200,Malignant neoplasm of unspecified undescended testis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C62.01,C6201,Malignant neoplasm of undescended right testis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C62.02,C6202,Malignant neoplasm of undescended left testis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C62.10,C6210,Malignant neoplasm of unspecified descended testis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C62.11,C6211,Malignant neoplasm of descended right testis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C62.12,C6212,Malignant neoplasm of descended left testis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C62.90,C6290,"Malignant neoplasm of unspecified testis, unspecified whether descended or undescended",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C62.91,C6291,"Malignant neoplasm of right testis, unspecified whether descended or undescended",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C62.92,C6292,"Malignant neoplasm of left testis, unspecified whether descended or undescended",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C63.00,C6300,Malignant neoplasm of unspecified epididymis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C63.01,C6301,Malignant neoplasm of right epididymis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C63.02,C6302,Malignant neoplasm of left epididymis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C63.10,C6310,Malignant neoplasm of unspecified spermatic cord,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C63.11,C6311,Malignant neoplasm of right spermatic cord,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C63.12,C6312,Malignant neoplasm of left spermatic cord,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C63.2,C632,Malignant neoplasm of scrotum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C63.7,C637,Malignant neoplasm of other specified male genital organs,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C63.8,C638,Malignant neoplasm of overlapping sites of male genital organs,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C63.9,C639,"Malignant neoplasm of male genital organ, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C64.1,C641,"Malignant neoplasm of right kidney, except renal pelvis",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C64.2,C642,"Malignant neoplasm of left kidney, except renal pelvis",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C64.9,C649,"Malignant neoplasm of unspecified kidney, except renal pelvis",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C65.1,C651,Malignant neoplasm of right renal pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C65.2,C652,Malignant neoplasm of left renal pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C65.9,C659,Malignant neoplasm of unspecified renal pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C66.1,C661,Malignant neoplasm of right ureter,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C66.2,C662,Malignant neoplasm of left ureter,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C66.9,C669,Malignant neoplasm of unspecified ureter,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C67.0,C670,Malignant neoplasm of trigone of bladder,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C67.1,C671,Malignant neoplasm of dome of bladder,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C67.2,C672,Malignant neoplasm of lateral wall of bladder,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C67.3,C673,Malignant neoplasm of anterior wall of bladder,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C67.4,C674,Malignant neoplasm of posterior wall of bladder,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C67.5,C675,Malignant neoplasm of bladder neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C67.6,C676,Malignant neoplasm of ureteric orifice,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C67.7,C677,Malignant neoplasm of urachus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C67.8,C678,Malignant neoplasm of overlapping sites of bladder,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C67.9,C679,"Malignant neoplasm of bladder, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C68.0,C680,Malignant neoplasm of urethra,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C68.1,C681,Malignant neoplasm of paraurethral glands,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C68.8,C688,Malignant neoplasm of overlapping sites of urinary organs,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C68.9,C689,"Malignant neoplasm of urinary organ, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.00,C6900,Malignant neoplasm of unspecified conjunctiva,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.01,C6901,Malignant neoplasm of right conjunctiva,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.02,C6902,Malignant neoplasm of left conjunctiva,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.10,C6910,Malignant neoplasm of unspecified cornea,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.11,C6911,Malignant neoplasm of right cornea,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.12,C6912,Malignant neoplasm of left cornea,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.20,C6920,Malignant neoplasm of unspecified retina,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.21,C6921,Malignant neoplasm of right retina,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.22,C6922,Malignant neoplasm of left retina,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.30,C6930,Malignant neoplasm of unspecified choroid,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.31,C6931,Malignant neoplasm of right choroid,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.32,C6932,Malignant neoplasm of left choroid,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.40,C6940,Malignant neoplasm of unspecified ciliary body,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.41,C6941,Malignant neoplasm of right ciliary body,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.42,C6942,Malignant neoplasm of left ciliary body,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.50,C6950,Malignant neoplasm of unspecified lacrimal gland and duct,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.51,C6951,Malignant neoplasm of right lacrimal gland and duct,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.52,C6952,Malignant neoplasm of left lacrimal gland and duct,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.60,C6960,Malignant neoplasm of unspecified orbit,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.61,C6961,Malignant neoplasm of right orbit,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.62,C6962,Malignant neoplasm of left orbit,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.80,C6980,Malignant neoplasm of overlapping sites of unspecified eye and adnexa,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.81,C6981,Malignant neoplasm of overlapping sites of right eye and adnexa,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.82,C6982,Malignant neoplasm of overlapping sites of left eye and adnexa,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.90,C6990,Malignant neoplasm of unspecified site of unspecified eye,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.91,C6991,Malignant neoplasm of unspecified site of right eye,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C69.92,C6992,Malignant neoplasm of unspecified site of left eye,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C70.0,C700,Malignant neoplasm of cerebral meninges,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C70.1,C701,Malignant neoplasm of spinal meninges,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C70.9,C709,"Malignant neoplasm of meninges, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C71.0,C710,"Malignant neoplasm of cerebrum, except lobes and ventricles",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C71.1,C711,Malignant neoplasm of frontal lobe,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C71.2,C712,Malignant neoplasm of temporal lobe,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C71.3,C713,Malignant neoplasm of parietal lobe,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C71.4,C714,Malignant neoplasm of occipital lobe,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C71.5,C715,Malignant neoplasm of cerebral ventricle,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C71.6,C716,Malignant neoplasm of cerebellum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C71.7,C717,Malignant neoplasm of brain stem,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C71.8,C718,Malignant neoplasm of overlapping sites of brain,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C71.9,C719,"Malignant neoplasm of brain, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C72.0,C720,Malignant neoplasm of spinal cord,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C72.1,C721,Malignant neoplasm of cauda equina,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C72.20,C7220,Malignant neoplasm of unspecified olfactory nerve,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C72.21,C7221,Malignant neoplasm of right olfactory nerve,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C72.22,C7222,Malignant neoplasm of left olfactory nerve,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C72.30,C7230,Malignant neoplasm of unspecified optic nerve,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C72.31,C7231,Malignant neoplasm of right optic nerve,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C72.32,C7232,Malignant neoplasm of left optic nerve,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C72.40,C7240,Malignant neoplasm of unspecified acoustic nerve,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C72.41,C7241,Malignant neoplasm of right acoustic nerve,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C72.42,C7242,Malignant neoplasm of left acoustic nerve,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C72.50,C7250,Malignant neoplasm of unspecified cranial nerve,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C72.59,C7259,Malignant neoplasm of other cranial nerves,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C72.9,C729,"Malignant neoplasm of central nervous system, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C73,C73,Malignant neoplasm of thyroid gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C74.00,C7400,Malignant neoplasm of cortex of unspecified adrenal gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C74.01,C7401,Malignant neoplasm of cortex of right adrenal gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C74.02,C7402,Malignant neoplasm of cortex of left adrenal gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C74.10,C7410,Malignant neoplasm of medulla of unspecified adrenal gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C74.11,C7411,Malignant neoplasm of medulla of right adrenal gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C74.12,C7412,Malignant neoplasm of medulla of left adrenal gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C74.90,C7490,Malignant neoplasm of unspecified part of unspecified adrenal gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C74.91,C7491,Malignant neoplasm of unspecified part of right adrenal gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C74.92,C7492,Malignant neoplasm of unspecified part of left adrenal gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C75.0,C750,Malignant neoplasm of parathyroid gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C75.1,C751,Malignant neoplasm of pituitary gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C75.2,C752,Malignant neoplasm of craniopharyngeal duct,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C75.3,C753,Malignant neoplasm of pineal gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C75.4,C754,Malignant neoplasm of carotid body,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C75.5,C755,Malignant neoplasm of aortic body and other paraganglia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C75.8,C758,"Malignant neoplasm with pluriglandular involvement, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C75.9,C759,"Malignant neoplasm of endocrine gland, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C76.0,C760,"Malignant neoplasm of head, face and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C76.1,C761,Malignant neoplasm of thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C76.2,C762,Malignant neoplasm of abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C76.3,C763,Malignant neoplasm of pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C76.40,C7640,Malignant neoplasm of unspecified upper limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C76.41,C7641,Malignant neoplasm of right upper limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C76.42,C7642,Malignant neoplasm of left upper limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C76.50,C7650,Malignant neoplasm of unspecified lower limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C76.51,C7651,Malignant neoplasm of right lower limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C76.52,C7652,Malignant neoplasm of left lower limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C76.8,C768,Malignant neoplasm of other specified ill-defined sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.00,C7A00,Malignant carcinoid tumor of unspecified site,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.010,C7A010,Malignant carcinoid tumor of the duodenum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.011,C7A011,Malignant carcinoid tumor of the jejunum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.012,C7A012,Malignant carcinoid tumor of the ileum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.019,C7A019,"Malignant carcinoid tumor of the small intestine, unspecified portion",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.020,C7A020,Malignant carcinoid tumor of the appendix,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.021,C7A021,Malignant carcinoid tumor of the cecum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.022,C7A022,Malignant carcinoid tumor of the ascending colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.023,C7A023,Malignant carcinoid tumor of the transverse colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.024,C7A024,Malignant carcinoid tumor of the descending colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.025,C7A025,Malignant carcinoid tumor of the sigmoid colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.026,C7A026,Malignant carcinoid tumor of the rectum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.029,C7A029,"Malignant carcinoid tumor of the large intestine, unspecified portion",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.090,C7A090,Malignant carcinoid tumor of the bronchus and lung,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.091,C7A091,Malignant carcinoid tumor of the thymus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.092,C7A092,Malignant carcinoid tumor of the stomach,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.093,C7A093,Malignant carcinoid tumor of the kidney,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.094,C7A094,"Malignant carcinoid tumor of the foregut, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.095,C7A095,"Malignant carcinoid tumor of the midgut, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.096,C7A096,"Malignant carcinoid tumor of the hindgut, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.098,C7A098,Malignant carcinoid tumors of other sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.1,C7A1,Malignant poorly differentiated neuroendocrine tumors,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C7A.8,C7A8,Other malignant neuroendocrine tumors,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D46.9,D469,"Myelodysplastic syndrome, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,E31.21,E3121,Multiple endocrine neoplasia [MEN] type I,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,E31.22,E3122,Multiple endocrine neoplasia [MEN] type IIA,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,E31.23,E3123,Multiple endocrine neoplasia [MEN] type IIB,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,140.0,1400,malignant neoplasm of the upper lip with a vermilion border,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,140.1,1401,"malignant neoplasm of the lower lip, vermilion border",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,140.3,1403,"malignant neoplasm of the upper lip, inner surface",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,140.4,1404,"malignant neoplasm of the lower lip, inner side",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,140.5,1405,malignant neoplasm of lip unspecified inner side,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,140.6,1406,malignant neoplasm of the commissure of the lip,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,140.8,1408,malignant neoplasm of other sites of the lip,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,140.9,1409,"malignant neoplasm of unspecified lip, vermilion border",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,141.0,1410,malignant neoplasm of base of tongue,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,141.1,1411,malignant neoplasm of dorsal surface of tongue,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,141.2,1412,malignant neoplasm of tip or lateral border of tongue,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,141.3,1413,malignant neoplasm of ventral surface of tongue,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,141.4,1414,malignant neoplasm of anterior two thirds of the tongue unspecified part of the tongue,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,141.6,1416,malignant neoplasm of the lingual tonsil,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,141.8,1418,malignant neoplasm of other sites of the tongue,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,141.9,1419,malignant neoplasm of tongue unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,142.0,1420,malignant neoplasm of parotid gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,142.1,1421,malignant neoplasm of submandibular gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,142.2,1422,malignant neoplasm of the sublingual gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,142.8,1428,malignant neoplasm of other major salivary glands,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,142.9,1429,malignant neoplasm of salivary gland unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,143.0,1430,malignant neoplasm of upper gum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,143.1,1431,malignant neoplasm of the lower gum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,143.8,1438,malignant neoplasm of other sites of the gum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,143.9,1439,malignant neoplasm of unspecified gum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,144.0,1440,malignant neoplasm of the anterior portion of the floor of the mouth,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,144.1,1441,malignant neoplasm of the lateral portion of the floor of the mouth,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,144.8,1448,malignant neoplasm of other sites of the floor of the mouth,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,144.9,1449,malignant neoplasm of the floor of the mouth unspecified part of the floor of the mouth,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,145.0,1450,malignant neoplasm of the mucous membrane of the cheek,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,145.1,1451,malignant neoplasm of vestibule of mouth,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,145.2,1452,malignant neoplasm of the hard palate,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,145.3,1453,malignant neoplasm of the soft palate,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,145.4,1454,malignant neoplasm of the uvula,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,145.5,1455,malignant neoplasm of the unspecified palate,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,145.6,1456,malignant neoplasm of the retromolar area,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,145.8,1458,malignant neoplasm of other specified parts of mouth,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,145.9,1459,malignant neoplasm of unspecified malignant neoplasm of the mouth,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,146.0,1460,malignant neoplasm of amygdala,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,146.1,1461,malignant neoplasm of tonsillar fossa,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,146.2,1462,malignant neoplasm of tonsillar pillars (anter.)(poster.),https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,146.3,1463,malignant neoplasm of the vallecula,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,146.4,1464,malignant neoplasm of anterior epiglottis area,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,146.6,1466,malignant neoplasm of the oropharynx lateral wall,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,146.7,1467,malignant neoplasm of oropharynx posterior wall,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,146.8,1468,malignant neoplasm of the oropharynx other sites specified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,146.9,1469,malignant neoplasm of the oropharynx unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,147.0,1470,"malignant neoplasm of the nasopharynx, upper wall",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,147.1,1471,"malignant neoplasm of the nasopharynx, posterior wall",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,147.2,1472,"malignant neoplasm of the nasopharynx, lateral wall",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,147.3,1473,"malignant neoplasm of the naso-pharynx, anterior wall",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,147.8,1478,malignant neoplasm of other specified sites nasopharynx,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,147.9,1479,malignant neoplasm of nasopharynx unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,148.0,1480,malignant neoplasm of postrichoid region,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,148.1,1481,malignant neoplasm of pyriform sinus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,148.2,1482,"malignant neoplasm of the aryepiglottic fold, hypopharyngeal aspect",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,148.3,1483,"malignant neoplasm of hypopharynx, posterior wall",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,148.8,1488,malignant neoplasm of hypopharynx other specified sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,148.9,1489,malignant neoplasm of hypopharynx unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,149.0,1490,malignant neoplasm of pharynx unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,149.1,1491,malignant neoplasm of waldeyer ring,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,149.8,1498,"malignant neoplasm of other sites maldef. of lip, oral cavity, pharynx",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,149.9,1499,malignant neoplasm of oropharynx (ill-defined sites),https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,150.0,1500,malignant neoplasm of the cervical oesophagus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,150.1,1501,malignant neoplasm of thoracic oesophagus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,150.2,1502,malignant neoplasm of abdominal oesophagus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,150.3,1503,malignant neoplasm of upper 1/3 oesophagus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,150.4,1504,malignant neoplasm of middle 1/3 oesophagus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,150.5,1505,malignant neoplasm of lower 1/3 oesophagus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,150.8,1508,malignant neoplasm of other specified parts of the esophagus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,150.9,1509,malignant neoplasm of unspecified oesophagus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,151.0,1510,malignant neoplasm of cardia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,151.1,1511,malignant neoplasm of pylorus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,151.2,1512,malignant neoplasm of pyloric antrum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,151.3,1513,malignant neoplasm of the fundus of the stomach,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,151.4,1514,malignant neoplasm of the body of the stomach,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,151.5,1515,malignant neoplasm of the lesser curvature unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,151.6,1516,malignant neoplasm of the greater curvature unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,151.8,1518,malignant neoplasm of other specified sites of stomach,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,151.9,1519,malignant neoplasm of the stomach unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,152.0,1520,malignant neoplasm of duodenum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,152.1,1521,malignant neoplasm of jejunum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,152.2,1522,malignant neoplasm of ileum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,152.3,1523,malignant neoplasm of meckel diverticulum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,152.8,1528,malignant neoplasm of other specified sites small intestine,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,152.9,1529,malignant neoplasm of unspecified small intestine,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,153.0,1530,malignant neoplasm of flexure of the liver,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,153.1,1531,malignant neoplasm of the transverse colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,153.2,1532,malignant neoplasm of descending colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,153.3,1533,malignant neoplasm of sigmoid colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,153.4,1534,malignant neoplasm of cecum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,153.5,1535,malignant neoplasm of appendix,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,153.6,1536,malignant neoplasm of the ascending colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,153.7,1537,malignant neoplasm of the splenic flexure,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,153.8,1538,malignant neoplasm of other specified sites large intestine,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,153.9,1539,malignant neoplasm of unspecified colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,154.0,1540,malignant neoplasm of rectosigmoid junction,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,154.1,1541,malignant neoplasm of rectum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,154.2,1542,malignant neoplasm of anal canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,154.3,1543,malignant neoplasm of anus unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,154.8,1548,"malignant neoplasm of other neoplasms of the rectum, rectosigmoid junction and anus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,155.0,1550,"malignant neoplasm of liver, primary",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,155.1,1551,malignant neoplasm of intrahepatic bile ducts,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,155.2,1552,"malignant neoplasm of liver, unspecified as primary or secondary",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,156.0,1560,malignant neoplasm of the gall bladder,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,156.1,1561,malignant neoplasm of extrahepatic bile ducts,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,156.2,1562,malignant neoplasm of the ampulla of vater,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,156.8,1568,malignant neoplasm of other specific sites of biliary and extrahepatic biliary ducts,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,156.9,1569,malignant neoplasm of biliary tract part unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,157.0,1570,malignant neoplasm of head of pancreas,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,157.1,1571,malignant neoplasm of body pancreas,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,157.2,1572,malignant neoplasm of tail pancreas,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,157.3,1573,malignant neoplasm of the pancreatic duct,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,157.4,1574,malignant neoplasm of the islets of langerhans,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,157.8,1578,malignant neoplasm of other specified sites pancreas,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,157.9,1579,malignant neoplasm of pancreas unspecified part of pancreas,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,158.0,1580,malignant neoplasm of retroperitoneum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,158.8,1588,"malignant neoplasm of peritoneum, specified parts",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,158.9,1589,malignant neoplasm of unspecified peritoneum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,159.0,1590,malignant neoplasm of intestinal tract unspecified parts,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,159.1,1591,malignant neoplasm of spleen unclassified under other headings,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,159.8,1598,malignant neoplasm other sites digestive system and intra-abdominal organs,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,159.9,1599,malignant neoplasm of digestive tract/peritoneum ill-defined,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,160.0,1600,malignant neoplasm of nasal cavities,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,160.1,1601,malignant neoplasm of the middle ear and mastoid cells,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,160.2,1602,malignant neoplasm of maxillary sinus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,160.3,1603,malignant neoplasm of ethmoid sinus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,160.4,1604,malignant neoplasm of frontal sinus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,160.5,1605,malignant neoplasm of sphenoid sinus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,160.8,1608,"malignant neoplasm other sites of nasal f. nasal, ear m. sarcomaacc",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,160.9,1609,malignant neoplasm of accessory sinus unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,161.0,1610,malignant neoplasm of glottis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,161.1,1611,malignant neoplasm of supraglottis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,161.2,1612,malignant neoplasm of subglottis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,161.3,1613,malignant neoplasm of laryngeal cartilages,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,161.8,1618,malignant neoplasm of other specified sites larynx,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,161.9,1619,malignant neoplasm of larynx unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,162.0,1620,malignant neoplasm of trachea,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,162.2,1622,malignant neoplasm of main bronchus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,162.3,1623,"malignant neoplasm of upper lobe, bronchus or lung",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,162.4,1624,"malignant neoplasm of middle lobe, bronchus or lung",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,162.5,1625,"malignant neoplasm of lower lobe, bronchus or lung",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,162.8,1628,malignant neoplasm of other parts of bronchus or lung,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,162.9,1629,malignant neoplasm of unspecified bronchus and lung,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,163.9,1639,malignant neoplasm of pleura unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,164.0,1640,malignant neoplasm of thymus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,164.1,1641,malignant neoplasm of heart,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,164.2,1642,malignant neoplasm of anterior mediastinum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,164.3,1643,malignant neoplasm of posterior mediastinum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,164.8,1648,"malignant neoplasm of other thymus, chorea and mediastinum contig.",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,164.9,1649,malignant neoplasm of mediastinum part unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,165.0,1650,malignant neoplasm of upper respiratory tract unspecified part,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,165.8,1658,malignant neoplasm of other sites malignant neoplasm of other sites maldef. respirat. ap. and o.intrat.,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,165.9,1659,malignant neoplasm of respiratory tract malignant neoplasm of respiratory tract unspecified sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,170.0,1700,"malignant neoplasm of bones of skull and face, except jaw",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,170.1,1701,malignant neoplasm of the jaw,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,170.2,1702,"malignant neoplasm of spine, excluding sacrum and cosix",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,170.3,1703,"malignant neoplasm of the ribs, sternum and clavicle",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,170.4,1704,malignant neoplasm of the scapula and long bones of the upper extremities,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,170.5,1705,malignant neoplasm of short bones upper limbs,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,170.6,1706,"malignant neoplasm of pelvic bones, sacrum and rib bones",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,170.7,1707,"malignant neoplasm of long bones, lower limbs",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,170.8,1708,"malignant neoplasm of short bones, lower limbs",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,170.9,1709,malignant neoplasm of bones and articular cartilage unspecified site,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,171.0,1710,"malignant neoplasm of head, face and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,171.2,1712,"malignant neoplasm of the upper limbs, including the shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,171.3,1713,malignant neoplasm of the lower limbs including hip,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,171.4,1714,malignant neoplasm of the thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,171.5,1715,malignant neoplasm of abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,171.6,1716,malignant neoplasm of the pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,171.7,1717,malignant neoplasm of trunk not specified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,171.8,1718,malignant neoplasm other specific sites connective tissue and other soft tissue,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,171.9,1719,malignant neoplasm of connective and other soft tissues unspecified site,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,172.0,1720,malignant melanoma of skin of the lip,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,172.1,1721,"malignant melanoma of skin of eyelid, including canthal inclusion",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,172.2,1722,malignant melanoma of the skin of the ear and external auditory canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,172.3,1723,malignant melanoma other or unspecified parts of the face,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,172.4,1724,malignant melanoma of the scalp and neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,172.5,1725,"malignant melanoma of skin of trunk, except scrotum",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,172.6,1726,"malignant melanoma of the skin of the upper limbs, including men",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,172.7,1727,malignant melanoma of skin of lower limbs including hips,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,172.8,1728,malignant melanoma of other specified sites of the skin,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,172.9,1729,melanoma of skin unspecified site,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.00,17300,unspecified malignant neoplasm of skin of the lip,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.09,17309,other specified malignant neoplasm of skin of the lip,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.10,17310,"unspecified malignant neoplasm of eyelid, including the canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.19,17319,"other specified malignant neoplasm of eyelid, including canthus",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.20,17320,unspecified malignant neoplasm of skin of ear and external auditory canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.29,17329,other specified malignant neoplasm of the skin of the ear and ear canal,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.30,17330,unspecified malignant neoplasm of skin of other parts of the face or unspecified parts of the face,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.39,17339,other specified malignant neoplasm of skin of other parts of the face or unspecified parts of the face,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.40,17340,unspecified malignant neoplasm of scalp and neck skin,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.49,17349,other specified malignant neoplasm of the scalp and skin of neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.50,17350,"unspecified malignant neoplasm of the skin of the trunk, except scrotum",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.59,17359,"other specified malignant neoplasm of skin of trunk, except scrotum",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.60,17360,"unspecified malignant neoplasm of skin of the upper limbs , including the shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.69,17369,"other specified malignant neoplasm of the skin of the upper limbs , including shoulder",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.70,17370,"unspecified malignant neoplasm of the skin of the lower limbs, including the hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.79,17379,"other specified malignant neoplasm of the skin of the lower limbs, including hip",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.80,17380,unspecified malignant neoplasm of other specified sites of the skin,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.89,17389,other specified malignant neoplasm of other specified sites of the skin,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.90,17390,"unspecified malignant neoplasm of unspecified skin, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,173.99,17399,"other specified malignant neoplasm of the skin, unspecified site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,174.0,1740,malignant neoplasm of the nipple and areola,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,174.1,1741,malignant neoplasm of the central portion of the breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,174.2,1742,malignant neoplasm of upper inner quadrant of breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,174.3,1743,malignant neoplasm of the lower inner quadrant of the breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,174.4,1744,malignant neoplasm of upper outer quadrant of the breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,174.5,1745,malignant neoplasm of lower outer quadrant of the breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,174.6,1746,malignant neoplasm of axillary tail of the breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,174.8,1748,malignant neoplasm of other specified sites of the female breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,174.9,1749,"malignant neoplasm of the female breast, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,175.0,1750,malignant neoplasm of nipple and aureola,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,175.9,1759,malignant neoplasm other unspecified sites of the male breast,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,176.0,1760,kaposi sarcoma of the skin,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,176.1,1761,kaposi sarcoma of soft tissues,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,176.2,1762,kaposi sarcoma of the palate,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,176.3,1763,kaposi sarcoma of gastrointestinal sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,176.4,1764,Kaposi's sarcoma of the lung,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,176.5,1765,kaposi sarcoma of lymph nodes,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,176.8,1768,kaposi sarcoma of other specified sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,176.9,1769,Kaposi's sarcoma of unspecified kaposi's sarcoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,179,179,malignant neoplasm of uterus part unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,180.0,1800,malignant neoplasm of endocervix uteri,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,180.1,1801,malignant neoplasm of exocervix uteri,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,180.8,1808,malignant neoplasm of other specified sites of the uterine cervix,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,180.9,1809,malignant neoplasm of unspecified malignant neoplasm of uterine cervix,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,181,181,malignant neoplasm of placenta,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,182.0,1820,malignant neoplasm of the uterine corpus uteri other than the isthmus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,182.1,1821,malignant neoplasm of uterine isthmus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,182.8,1828,malignant neoplasm of other specified sites of the uterine corpus uteri,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,183.0,1830,malignant neoplasm of ovary,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,183.2,1832,malignant neoplasm of fallopian tube,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,183.3,1833,malignant neoplasm of the broad ligament,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,183.4,1834,malignant neoplasm of parametrium,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,183.5,1835,malignant neoplasm of round ligament,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,183.9,1839,malignant neoplasm of unspecified uterine adnexa,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,184.0,1840,malignant neoplasm of vagina,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,184.1,1841,malignant neoplasm of labia majora,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,184.2,1842,malignant neoplasm of labia minora,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,184.3,1843,malignant neoplasm of clitoris,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,184.4,1844,malignant neoplasm of vulva not specified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,184.8,1848,malignant neoplasm of other specified female genital organ sites malignant neoplasm of female genital organs,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,184.9,1849,malignant neoplasm of female genital organs unspecified site,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,185,185,malignant neoplasm of prostate,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,186.0,1860,malignant neoplasm of undescended testicle,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,186.9,1869,malignant neoplasm of other or unspecified malignant neoplasm of the testicu,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,187.1,1871,malignant neoplasm of foreskin,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,187.2,1872,malignant neoplasm of the glans penis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,187.3,1873,malignant neoplasm of penile shaft,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,187.4,1874,malignant neoplasm of penis unspecified part of penis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,187.5,1875,malignant neoplasm of the epididymis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,187.6,1876,malignant neoplasm of the spermatic cord,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,187.7,1877,malignant neoplasm of scrotum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,187.8,1878,malignant neoplasm other specified sites of male genital organs,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,187.9,1879,malignant neoplasm of male genital organ unspecified site,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,188.0,1880,malignant neoplasm of trigone urinary bladder,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,188.1,1881,malignant neoplasm of the vault urinary bladder,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,188.2,1882,malignant neoplasm of lateral wall of urinary bladder,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,188.3,1883,malignant neoplasm of anterior wall urinary bladder,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,188.4,1884,malignant neoplasm of the posterior wall urinary bladder,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,188.5,1885,malignant neoplasm of the urinary bladder neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,188.6,1886,malignant neoplasm of the ureteral orifice,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,188.7,1887,malignant neoplasm of the urachus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,188.8,1888,malignant neoplasm of other specified sites of the bladder,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,188.9,1889,malignant neoplasm of unspecified part of bladder,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,189.0,1890,"malignant neoplasm of kidney, except pelvis",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,189.1,1891,malignant neoplasm of renal pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,189.2,1892,malignant neoplasm of the ureter,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,189.3,1893,malignant neoplasm of urethra,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,189.4,1894,malignant neoplasm of paraurethral glands,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,189.8,1898,malignant neoplasm of other specified urinary organ sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,189.9,1899,malignant neoplasm of urinary organs unspecified site,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,190.0,1900,"malignant neoplasm of eyeball, cornea, retina and choroid, excluding conjunctiva",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,190.1,1901,malignant neoplasm of orbit,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,190.2,1902,malignant neoplasm of lacrimal gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,190.3,1903,malignant neoplasm of the conjunctiva,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,190.4,1904,malignant neoplasm of cornea,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,190.5,1905,malignant neoplasm of the retina,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,190.6,1906,malignant neoplasm of the choroid,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,190.7,1907,malignant neoplasm of the lacrimal duct,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,190.8,1908,malignant neoplasm of other specified sites of the eye,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,190.9,1909,malignant neoplasm of unspecified part of eye,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,191.0,1910,malignant neoplasm of brain except lobules and ventricles,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,191.1,1911,malignant neoplasm of the frontal lobe of the brain,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,191.2,1912,malignant neoplasm of the temporal lobe of the brain,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,191.3,1913,malignant neoplasm of the parietal lobule of the brain,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,191.4,1914,malignant neoplasm of the occipital lobule of the cerebrum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,191.5,1915,malignant neoplasm of the ventricles of the brain,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,191.6,1916,malignant neoplasm of the cerebellum neom,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,191.7,1917,malignant neoplasm of the cerebral peduncle,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,191.8,1918,malignant neoplasm of other parts of the brain,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,191.9,1919,malignant neoplasm of the brain unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,192.0,1920,malignant neoplasm of cranial nerves,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,192.1,1921,malignant neoplasm of meninges of the brain,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,192.2,1922,malignant neoplasm of the spinal cord,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,192.3,1923,malignant neoplasm of spinal meninges,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,192.8,1928,malignant neoplasm of other specified sites nervous system,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,192.9,1929,malignant neoplasm of nervous system part unspecified,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,193,193,malignant neoplasm of thyroid gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,194.0,1940,malignant neoplasm of the adrenal gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,194.1,1941,malignant neoplasm of parathyroid gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,194.3,1943,malignant neoplasm of pituitary gland and craniopharyngeal duct,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,194.4,1944,malignant neoplasm of the pineal gland,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,194.5,1945,malignant neoplasm of carotid body,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,194.6,1946,malignant neoplasm of aortic body and other paraganglia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,194.8,1948,malignant neoplasm of other endocrine glands and related structures,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,194.9,1949,malignant neoplasm of endocrine glands unspecified site,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,195.0,1950,"malignant neoplasm of head, face and neck",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,195.1,1951,malignant neoplasm of thorax,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,195.2,1952,malignant neoplasm of abdomen,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,195.3,1953,malignant neoplasm of pelvis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,195.4,1954,malignant neoplasm of upper limbs,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,195.5,1955,malignant neoplasm of lower limbs,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,195.8,1958,malignant neoplasm of other specified sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,199.1,1991,other unspecified site malignant neoplasm,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.00,20900,"malignant carcinoid tumour of small intestine, unspecified portion",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.01,20901,malignant carcinoid tumour of the duodenum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.02,20902,malignant carcinoid tumour of jejunum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.03,20903,malignant carcinoid tumour of ileum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.10,20910,"malignant carcinoid tumour of the large intestine, unspecified portion",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.11,20911,malignant carcinoid tumour of the appendix,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.12,20912,malignant carcinoid tumour of the cecum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.13,20913,malignant carcinoid tumour of ascending colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.14,20914,malignant carcinoid tumour of transverse colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.15,20915,malignant carcinoid tumour of the descending colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.16,20916,malignant carcinoid tumour of the sigmoid colon,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.17,20917,malignant carcinoid tumour of the rectum,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.20,20920,malignant carcinoid tumour of unknown primary site,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.21,20921,malignant carcinoid tumour of bronchus and lung,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.22,20922,malignant carcinoid tumour of thymus,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.23,20923,malignant carcinoid tumour of the stomach,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.24,20924,malignant carcinoid tumour of kidney,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.25,20925,malignant carcinoid tumour of the upper gastrointestinal tract neom,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.26,20926,malignant carcinoid tumour of the middle digestive tract neom,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.27,20927,malignant carcinoid tumour of lower digestive tract neom,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.29,20929,malignant carcinoid tumours of other sites,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.30,20930,"poorly differentiated malignant neuroendocrine carcinoma, any site",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.31,20931,merkel cell carcinoma of the face,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.32,20932,merkel cell carcinoma of the scalp and neck,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.33,20933,merkel cell carcinoma of the upper limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.34,20934,merkel cell carcinoma of the lower limb,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.35,20935,merkel cell carcinoma of the trunk,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,209.36,20936,merkel cell carcinoma of other locations,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,238.75,23875,"myelodysplastic syndrome, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,258.01,25801,multiple endocrine neoplasia [MEN] type i,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,258.02,25802,multiple endocrine neoplasia [nem] type iia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,258.03,25803,multiple endocrine neoplasia [nem] type iib,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+e90 (belgian pseudopathology codes),,FL_CANCER_MOC_YN,Reimbursement of multidisciplinary oncological concertation (flag),
+e90 (belgian pseudopathology codes),,FL_CANCER_CHEMORT_YN,Reimbursement of chemo- or radiotherapy (flag),

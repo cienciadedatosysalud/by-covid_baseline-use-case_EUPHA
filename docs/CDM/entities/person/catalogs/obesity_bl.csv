@@ -1,0 +1,52 @@
+classification_system,code,code_clean,description,source
+snomed-ct,414916001,414916001,Obesity,https://www.ncbi.nlm.nih.gov/medgen/18127
+snomed-ct,414915002,414915002,Obesity,https://www.ncbi.nlm.nih.gov/medgen/18127
+icd-10-mc,E66.01,E6601,Morbid (severe) obesity due to excess calories,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,E66.09,E6609,Other obesity due to excess calories,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,E66.1,E661,Drug-induced obesity,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,E66.2,E662,Morbid (severe) obesity with alveolar hypoventilation,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,E66.8,E668,Other obesity,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,E66.9,E669,"Obesity, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,R93.9,R939,Diagnostic imaging inconclusive due to excess body fat of patient,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.30,Z6830,"Body mass index [BMI] 30.0-30.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.31,Z6831,"Body mass index [BMI] 31.0-31.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.32,Z6832,"Body mass index [BMI] 32.0-32.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.33,Z6833,"Body mass index [BMI] 33.0-33.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.34,Z6834,"Body mass index [BMI] 34.0-34.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.35,Z6835,"Body mass index [BMI] 35.0-35.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.36,Z6836,"Body mass index [BMI] 36.0-36.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.37,Z6837,"Body mass index [BMI] 37.0-37.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.38,Z6838,"Body mass index [BMI] 38.0-38.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.39,Z6839,"Body mass index [BMI] 39.0-39.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.41,Z6841,"Body mass index [BMI] 40.0-44.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.42,Z6842,"Body mass index [BMI] 45.0-49.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.43,Z6843,"Body mass index [BMI] 50.0-59.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.44,Z6844,"Body mass index [BMI] 60.0-69.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.45,Z6845,"Body mass index [BMI] 70 or greater, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z68.54,Z6854,"Body mass index [BMI] pediatric, greater than or equal to 95th percentile for age",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,278.00,27800,unspecified obesity,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,278.01,27801,morbid obesity,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,278.03,27803,hypoventilation syndrome and obesity,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,649.10,64910,"obesity complicating e/p/p/p, unspecified with respect to epi. of care",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,649.11,64911,"obesity complicating e/p/p/p, parturient with or without mention of antepartum status",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,649.12,64912,"obesity complicating b/w/o, parturition with mention of postpartum complication",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,649.13,64913,"obesity complicating b/w/o, antepartum status or complication",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,649.14,64914,"obesity complicating p/e/p/p, postpartum status or complication",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,793.91,79391,inconclusive imaging test for excess body fat,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.30,V8530,"body mass index 30.0 30.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.31,V8531,"body mass index 31.0 31.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.32,V8532,"body mass index 32.0 32.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.33,V8533,"body mass index 33.0 33.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.34,V8534,"body mass index 34.0 34.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.35,V8535,"body mass index 35.0 35.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.36,V8536,"body mass index 36.0 36.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.37,V8537,"body mass index 37.0 37.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.38,V8538,"body mass index 38.0 38.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.39,V8539,"body mass index 39.0 39.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.41,V8541,"body mass index 40.0 44.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.42,V8542,"body mass index 45.0 49.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.43,V8543,"body mass index 50.0 59.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.44,V8544,"body mass index 60.0 69.9, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.45,V8545,"body mass index 70 and above, adult",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V85.54,V8554,"pediatric body mass index, greater than or equal to 95th percentile for age",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+Invitations vaccination,,Invit_Obesite (FL_INVIT_OBESITE),Invited to vaccination due to obesity (flag),

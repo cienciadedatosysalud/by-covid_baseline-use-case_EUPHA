@@ -1,0 +1,48 @@
+{
+    "files": [
+        {
+            "filename": "src/analysis-scripts/analytical-pipeline.QMD",
+            "hash": "c23118d5207767fd10fa7ec685674049"
+        },
+        {
+            "filename": "outputs/5_descriptive.html",
+            "hash": "202400d7f9dfeced9086815bb79d2e42"
+        },
+        {
+            "filename": "outputs/3_imputation.html",
+            "hash": "b96839c13bc7c07b9f289bbfb8a3962d"
+        },
+        {
+            "filename": "outputs/analytical-pipeline.html",
+            "hash": "a6fd52fd129db023d8278eee95902c3d"
+        },
+        {
+            "filename": "outputs/1_DQA.html",
+            "hash": "74440c4359c6a5a1649caf58ebeb8e3f"
+        },
+        {
+            "filename": "outputs/4_matching.html",
+            "hash": "6c4fb36432628b527584510092d2ae6c"
+        },
+        {
+            "filename": "outputs/logs/logfile.txt",
+            "hash": "6f4bf730a9622f0a1e3a70c26224525a"
+        },
+        {
+            "filename": "outputs/logs/analysis_execution.log",
+            "hash": "8be692f8c7e6cddef3ea0e2fb145fa8b"
+        },
+        {
+            "filename": "outputs/2_validation.html",
+            "hash": "97f2d83f2a4ef1776bdab0e54bc2dd18"
+        },
+        {
+            "filename": "outputs/6_survival-analysis.html",
+            "hash": "55631888b7645c81fd03e93f19d1fbc9"
+        },
+        {
+            "filename": "inputs/data.duckdb",
+            "hash": "5b32fa27b34ec5f6acdb5e8721104dfa"
+        }
+    ]
+}

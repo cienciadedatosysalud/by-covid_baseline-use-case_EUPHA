@@ -1,0 +1,45 @@
+classification_system,code,code_clean,description,source
+snomed-ct,709044004,709044004,Chronic kidney disease,https://snomedbrowser.com/Codes/Details/709044004
+icd-10-mc,N18.3,N183,"Chronic kidney disease, stage 3 (moderate)",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,N18.30,N1830,"Chronic kidney disease, stage 3 unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,N18.31,N1831,"Chronic kidney disease, stage 3a",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,N18.32,N1832,"Chronic kidney disease, stage 3b",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,N18.9,N189,"Chronic kidney disease, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,N19,N19,Unspecified kidney failure,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,I12.0,I120,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,I13.11,I1311,"Hypertensive heart and chronic kidney disease without heart failure, with stage 5 chronic kidney disease, or end stage renal disease",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,I13.2,I132,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,N18.4,N184,"Chronic kidney disease, stage 4 (severe)",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,N18.5,N185,"Chronic kidney disease, stage 5",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,N18.6,N186,End stage renal disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z49.01,Z4901,Encounter for fitting and adjustment of extracorporeal dialysis catheter,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z49.02,Z4902,Encounter for fitting and adjustment of peritoneal dialysis catheter,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z49.31,Z4931,Encounter for adequacy testing for hemodialysis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z49.32,Z4932,Encounter for adequacy testing for peritoneal dialysis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z91.15,Z9115,Patient's noncompliance with renal dialysis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z94.0,Z940,Kidney transplant status,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,Z99.2,Z992,Dependence on renal dialysis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,585.3,5853,"chronic kidney disease, stage iii (moderate)",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,585.9,5859,"chronic kidney disease, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,586,586,neonatal renal failure,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,403.01,40301,"chronic renal disease hta malignant with chronic renal disease, stage v, or end-stage renal disease",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,403.11,40311,"chronic renal disease hta benign with stage v chronic renal disease, or end-stage renal disease",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,403.91,40391,"chronic renal disease unspecified chronic hta with chronic renal disease stage v, or end-stage renal disease",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,404.02,40402,"cardiac and chronic renal disease hta malignant without cardiac i. and with chronic renal disease stage v, or end stage renal disease",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,404.03,40403,chronic cardiac and renal disease hta malignant with cardiac i. and chronic renal disease est. v or end-stage renal disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,404.12,40412,cardiac and chronic renal disease hta benign hta without cardiac i. and with chronic renal disease est. v or end stage renal disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,404.13,40413,hta benign with i. cardiac and with chronic renal disease est. v or end stage renal disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,404.92,40492,cardiac and chronic renal disease unspecified hta without cardiac i. and with chronic renal disease est. v or end-stage renal disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,404.93,40493,chronic cardiac and renal disease hta non-specific with i. cardiac and with chronic renal disease est. v. or end stage renal disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,585.4,5854,"chronic nephropathy, stage iv (severe)",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,585.5,5855,"chronic nephropathy, stage v",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,585.6,5856,end stage renal disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V42.0,V420,renal transplant status,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V45.11,V4511,renal dialysis status,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V45.12,V4512,renal dialysis non-compliance status,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V56.1,V561,dialysis catheter placement/adjustment (extracorporeal)(perit.),https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V56.2,V562,dialysis catheter placement/adjustment perit.,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V56.31,V5631,admission for haemodialysis adequacy testing,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,V56.32,V5632,admission for adequacy test for peritoneal dialysis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+e90 (Belgian pseudopathology codes),agd22,e90_insuren (FL_E90_INSUREN),Kidney failure,
+Invitations vaccination,,Invit_Dialyse (FL_INVIT_DIALYSE),Invited to vaccination due to dialysis (flag),

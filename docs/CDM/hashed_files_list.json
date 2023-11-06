@@ -1,0 +1,168 @@
+{
+    "files": [
+        {
+            "filename": "20231106105415_cdmb/src/check_load-scripts/check_load.py",
+            "hash": "6de039f4fe9031565005d7ab6a66e6d6"
+        },
+        {
+            "filename": "20231106105415_cdmb/src/check_load-scripts/inputs/readme.txt",
+            "hash": "52039a1eabfedece8bc5825b1e2ca83d"
+        },
+        {
+            "filename": "20231106105415_cdmb/src/dqa-scripts/dqa.py",
+            "hash": "01c2e9da28e2f74589a798d8c2add274"
+        },
+        {
+            "filename": "20231106105415_cdmb/src/analysis-scripts/r_report_template.qmd",
+            "hash": "82495de8927159ebb7924b36f611b0b2"
+        },
+        {
+            "filename": "20231106105415_cdmb/src/analysis-scripts/_quarto.yml",
+            "hash": "aa2f538702b55d59e782d63d463a75a7"
+        },
+        {
+            "filename": "20231106105415_cdmb/src/validation-scripts/validator.py",
+            "hash": "b5158a456197403460d41f99a00bd22a"
+        },
+        {
+            "filename": "20231106105415_cdmb/src/validation-scripts/validator_report.qmd",
+            "hash": "f0cecbcff141a9f6cbaa1b1df60e7818"
+        },
+        {
+            "filename": "20231106105415_cdmb/src/validation-scripts/_quarto.yml",
+            "hash": "aa2f538702b55d59e782d63d463a75a7"
+        },
+        {
+            "filename": "20231106105415_cdmb/outputs/logs/readme.txt",
+            "hash": "96ce67054dc340e41b7dd13721163067"
+        },
+        {
+            "filename": "20231106105415_cdmb/outputs/readme.txt",
+            "hash": "122232d632a879afd16e671f9b81c845"
+        },
+        {
+            "filename": "20231106105415_cdmb/man_container_deployment.md",
+            "hash": "be3c5cbc5077fc7eff26536315bffa78"
+        },
+        {
+            "filename": "20231106105415_cdmb/ro-crate-metadata.json",
+            "hash": "55469886c83cc8ff387cf8428b34d261"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/common_datamodel.xlsx",
+            "hash": "fd22f069afc5b0d02233c29efcd14726"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/cdmb_config.json",
+            "hash": "b6ad9889df0dd8e653744da10e51b481"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/synthetic-data/synthetic_area.csv",
+            "hash": "451f3bf5263bf10c205a7bf44e809f16"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/synthetic-data/synthetic_person.csv",
+            "hash": "bbba768900a1d27935600ee82c154184"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/ER.gv",
+            "hash": "d6cedf75124b26d6feb492b4bd1b2c69"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/copd_bl.csv",
+            "hash": "fd5023bcf402ab1306d0c51e69610733"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/solid_tumor_without_metastasis_bl.csv",
+            "hash": "44653539a4127145036170fc11336599"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/blood_cancer_bl.csv",
+            "hash": "c7eaa3b24a5582636be19d704418d490"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/hiv_infection_bl.csv",
+            "hash": "13ee209065f71a30c5621f301ad3e923"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/institutionalized_bl.csv",
+            "hash": "27b12b32c83a17c96b78b42263e63388"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/transplanted_bl.csv",
+            "hash": "9ba6404131829a533c78216dbdcd1628"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/diabetes_bl.csv",
+            "hash": "052045e3a88f54e83fd0329c15a0ff76"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/immunosuppression_bl.csv",
+            "hash": "44fd61e95340b977282a3c9da34e2359"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/hypertension_bl.csv",
+            "hash": "06782ae3838a8a30eb7cbcbdab4fecb7"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/sickle_cell_disease_bl.csv",
+            "hash": "ac34eba6d028df3128c3a06a8d84301e"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/heart_failure.csv",
+            "hash": "ab005c014a72c6f84b03f91b76d25cad"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/obesity_bl.csv",
+            "hash": "d15658714840293738d1ec437ccf3a46"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/pregnancy_bl.csv",
+            "hash": "a5eaf56147ad3f2b2f90ec45463df0b2"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/essential_worker_bl.csv",
+            "hash": "3bd76c00337960c8b01e9bff641fb7a9"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/chronic_liver_disease_bl.csv",
+            "hash": "72b3747622705d025ad34a67df23ad52"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/chronic_kidney_disease_bl.csv",
+            "hash": "ded9c696092188399cbd9a605ef72797"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/catalogs/primary_immunodeficiency_bl.csv",
+            "hash": "30f74ba4c32c4b84a7b08186def29307"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/person/validation-rules/rules_set_person.json",
+            "hash": "49a1f2bf766ce8ecbae3cbf366a12b0d"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/entities/area/validation-rules/rules_set_area.json",
+            "hash": "dc79940016642895dc26f05dc5be3311"
+        },
+        {
+            "filename": "20231106105415_cdmb/docs/CDM/ER.gv.png",
+            "hash": "0fc0b838eff04b9c6d2b5b121614dd43"
+        },
+        {
+            "filename": "20231106105415_cdmb/inputs/data.duckdb",
+            "hash": "bfeed7cd13178f5be37d4b60cb47fc3d"
+        },
+        {
+            "filename": "20231106105415_cdmb/inputs/readme.txt",
+            "hash": "52039a1eabfedece8bc5825b1e2ca83d"
+        },
+        {
+            "filename": "20231106105415_cdmb/LICENSE.md",
+            "hash": "527dc6cad772ccb187d5bfe5af738204"
+        },
+        {
+            "filename": "20231106105415_cdmb/README.md",
+            "hash": "30c07b4019d0ddf8443a9a7611dc8f4f"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+classification_system,code,code_clean,description,source
+SNOMED-CT,93143009,93143009,"Leukemia, disease (disorder)",https://phinvads.cdc.gov/vads/ViewCodeSystemConcept.action?oid=2.16.840.1.113883.6.96&code=93143009
+icd-10-mc,C90.10,C9010,Plasma cell leukemia not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C90.11,C9011,Plasma cell leukemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C90.12,C9012,Plasma cell leukemia in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.00,C9100,Acute lymphoblastic leukemia not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.01,C9101,"Acute lymphoblastic leukemia, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.02,C9102,"Acute lymphoblastic leukemia, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.10,C9110,Chronic lymphocytic leukemia of B-cell type not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.11,C9111,Chronic lymphocytic leukemia of B-cell type in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.12,C9112,Chronic lymphocytic leukemia of B-cell type in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.30,C9130,Prolymphocytic leukemia of B-cell type not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.31,C9131,"Prolymphocytic leukemia of B-cell type, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.32,C9132,"Prolymphocytic leukemia of B-cell type, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.40,C9140,Hairy cell leukemia not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.41,C9141,"Hairy cell leukemia, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.42,C9142,"Hairy cell leukemia, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.50,C9150,Adult T-cell lymphoma/leukemia (HTLV-1-associated) not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.51,C9151,"Adult T-cell lymphoma/leukemia (HTLV-1-associated), in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.52,C9152,"Adult T-cell lymphoma/leukemia (HTLV-1-associated), in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.60,C9160,Prolymphocytic leukemia of T-cell type not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.61,C9161,"Prolymphocytic leukemia of T-cell type, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.62,C9162,"Prolymphocytic leukemia of T-cell type, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.90,C9190,"Lymphoid leukemia, unspecified not having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.91,C9191,"Lymphoid leukemia, unspecified, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.92,C9192,"Lymphoid leukemia, unspecified, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.A0,C91A0,Mature B-cell leukemia Burkitt-type not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.A1,C91A1,"Mature B-cell leukemia Burkitt-type, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.A2,C91A2,"Mature B-cell leukemia Burkitt-type, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.Z0,C91Z0,Other lymphoid leukemia not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.Z1,C91Z1,"Other lymphoid leukemia, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C91.Z2,C91Z2,"Other lymphoid leukemia, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.00,C9200,"Acute myeloblastic leukemia, not having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.01,C9201,"Acute myeloblastic leukemia, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.02,C9202,"Acute myeloblastic leukemia, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.10,C9210,"Chronic myeloid leukemia, BCR/ABL-positive, not having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.11,C9211,"Chronic myeloid leukemia, BCR/ABL-positive, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.12,C9212,"Chronic myeloid leukemia, BCR/ABL-positive, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.20,C9220,"Atypical chronic myeloid leukemia, BCR/ABL-negative, not having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.21,C9221,"Atypical chronic myeloid leukemia, BCR/ABL-negative, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.22,C9222,"Atypical chronic myeloid leukemia, BCR/ABL-negative, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.30,C9230,"Myeloid sarcoma, not having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.31,C9231,"Myeloid sarcoma, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.32,C9232,"Myeloid sarcoma, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.40,C9240,"Acute promyelocytic leukemia, not having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.41,C9241,"Acute promyelocytic leukemia, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.42,C9242,"Acute promyelocytic leukemia, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.50,C9250,"Acute myelomonocytic leukemia, not having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.51,C9251,"Acute myelomonocytic leukemia, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.52,C9252,"Acute myelomonocytic leukemia, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.60,C9260,Acute myeloid leukemia with 11q23-abnormality not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.61,C9261,Acute myeloid leukemia with 11q23-abnormality in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.62,C9262,Acute myeloid leukemia with 11q23-abnormality in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.90,C9290,"Myeloid leukemia, unspecified, not having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.91,C9291,"Myeloid leukemia, unspecified in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.92,C9292,"Myeloid leukemia, unspecified in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.A0,C92A0,"Acute myeloid leukemia with multilineage dysplasia, not having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.A1,C92A1,"Acute myeloid leukemia with multilineage dysplasia, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.A2,C92A2,"Acute myeloid leukemia with multilineage dysplasia, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.Z0,C92Z0,Other myeloid leukemia not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.Z1,C92Z1,"Other myeloid leukemia, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C92.Z2,C92Z2,"Other myeloid leukemia, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C93.00,C9300,"Acute monoblastic/monocytic leukemia, not having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C93.01,C9301,"Acute monoblastic/monocytic leukemia, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C93.02,C9302,"Acute monoblastic/monocytic leukemia, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C93.10,C9310,Chronic myelomonocytic leukemia not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C93.11,C9311,"Chronic myelomonocytic leukemia, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C93.12,C9312,"Chronic myelomonocytic leukemia, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C93.30,C9330,"Juvenile myelomonocytic leukemia, not having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C93.31,C9331,"Juvenile myelomonocytic leukemia, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C93.32,C9332,"Juvenile myelomonocytic leukemia, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C93.90,C9390,"Monocytic leukemia, unspecified, not having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C93.91,C9391,"Monocytic leukemia, unspecified in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C93.92,C9392,"Monocytic leukemia, unspecified in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C93.Z0,C93Z0,"Other monocytic leukemia, not having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C93.Z1,C93Z1,"Other monocytic leukemia, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C93.Z2,C93Z2,"Other monocytic leukemia, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.00,C9400,"Acute erythroid leukemia, not having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.01,C9401,"Acute erythroid leukemia, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.02,C9402,"Acute erythroid leukemia, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.20,C9420,Acute megakaryoblastic leukemia not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.21,C9421,"Acute megakaryoblastic leukemia, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.22,C9422,"Acute megakaryoblastic leukemia, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.30,C9430,Mast cell leukemia not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.31,C9431,"Mast cell leukemia, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.32,C9432,"Mast cell leukemia, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.40,C9440,Acute panmyelosis with myelofibrosis not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.41,C9441,"Acute panmyelosis with myelofibrosis, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.42,C9442,"Acute panmyelosis with myelofibrosis, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.6,C946,"Myelodysplastic disease, not classified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.80,C9480,Other specified leukemias not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.81,C9481,"Other specified leukemias, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C94.82,C9482,"Other specified leukemias, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C95.00,C9500,Acute leukemia of unspecified cell type not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C95.01,C9501,"Acute leukemia of unspecified cell type, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C95.02,C9502,"Acute leukemia of unspecified cell type, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C95.10,C9510,Chronic leukemia of unspecified cell type not having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C95.11,C9511,"Chronic leukemia of unspecified cell type, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C95.12,C9512,"Chronic leukemia of unspecified cell type, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C95.90,C9590,"Leukemia, unspecified not having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C95.91,C9591,"Leukemia, unspecified, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,C95.92,C9592,"Leukemia, unspecified, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,202.40,20240,"neonatal, extranodal and solid organ leukaemic reticuloendotheliosis",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,203.10,20310,plasma cell leukemia without mention of having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,203.11,20311,plasma cell leukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,203.12,20312,plasma cell leukaemia in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,204.00,20400,acute lymphoid leukaemia not mentioned as having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,204.01,20401,acute lymphoid leukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,204.02,20402,relapsed acute lymphoblastic leukaemia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,204.10,20410,chronic lymphoid leukaemia with no mention of having reached remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,204.11,20411,chronic lymphoid leukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,204.12,20412,chronic lymphoid leukaemia in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,204.80,20480,other lymphoid leukaemias without mention of having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,204.81,20481,other lymphoid leukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,204.82,20482,other lymphoid leukaemia in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,204.90,20490,unspecified lymphoid leukaemia with no mention of having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,204.91,20491,unspecified lymphoid leukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,204.92,20492,unspecified lymphoid leukaemia in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.00,20500,acute myeloid leukaemia with no mention of having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.01,20501,acute myeloid leukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.02,20502,acute myeloid leukaemia in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.10,20510,chronic myeloid leukaemia with no mention of having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.11,20511,chronic myeloid leukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.12,20512,relapsing myeloid leukaemia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.20,20520,subacute myeloid leukaemia with no mention of having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.21,20521,subacute myeloid leukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.22,20522,subacute myeloid leukemia in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.30,20530,myeloid sarcoma not mentioned as having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.31,20531,myeloid sarcoma in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.32,20532,relapsed myeloid sarcoma,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.80,20580,other myeloid leukaemias without mention of having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.81,20581,other myeloid leukaemias in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.82,20582,other myeloid leukaemias in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.90,20590,unspecified myeloid leukaemia without mention of having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.91,20591,unspecified myeloid leukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,205.92,20592,unspecified myeloid leukaemia in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,206.00,20600,acute monocytic leukaemia without mention of having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,206.01,20601,acute monocytic leukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,206.02,20602,acute monocytic leukaemia in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,206.10,20610,chronic monocytic leukaemia without mention of having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,206.11,20611,chronic monocytic leukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,206.12,20612,chronic relapsing monocytic leukaemia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,206.20,20620,subacute monocytic leukaemia without mention of having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,206.21,20621,subacute monocytic leukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,206.22,20622,subacute relapsed monocytic leukaemia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,206.80,20680,other monocytic leukaemias without mention of having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,206.81,20681,other monocytic leukaemias in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,206.82,20682,other monocytic leukaemias in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,206.90,20690,unspecified monocytic leukaemia not mentioned as having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,206.91,20691,unspecified monocytic leukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,206.92,20692,unspecified monocytic leukaemia in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,207.00,20700,acute erythremia and erythroleukaemia not mentioned as having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,207.01,20701,acute erythremia and acute erythroleukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,207.02,20702,acute erythremia and acute erythroleukaemia in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,207.20,20720,megakaryocytic leukaemia without mention of having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,207.21,20721,megakaryocytic leukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,207.22,20722,megakaryocytic leukaemia in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,207.80,20780,other specified leukaemias without mention of having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,207.81,20781,other specified leukaemias in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,207.82,20782,other specified leukaemias in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,208.00,20800,"acute leukaemia not specified cell type, no mention of having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,208.01,20801,"acute leukaemia, unspecified cell type, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,208.02,20802,acute leukaemia in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,208.10,20810,"chronic leukaemia, unspecified cell type, not mentioned as having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,208.11,20811,"chronic leukaemia unspecified cell type, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,208.12,20812,"chronic leukaemia without specified cell type, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,208.20,20820,"subacute leukaemia unspecified cell type, not mentioned as having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,208.21,20821,"subacute leukaemia unspecified cell type, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,208.22,20822,"subacute leukaemia without specified cell type, in relapse",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,208.80,20880,"other leukaemias unspecified cell type, no mention of having achieved remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,208.81,20881,"other leukaemias not specified cell type, in remission",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,208.82,20882,other leukaemias without cell type specification in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,208.90,20890,unspecified leukaemia without mention of having achieved remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,208.91,20891,unspecified leukaemia in remission,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,208.92,20892,unspecified leukaemia in relapse,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,238.79,23879,other lymphoid and haematopoietic tissues,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+e90 (belgian pseudopathology codes),,FL_CANCER_MOC_YN,Reimbursement of multidisciplinary oncological concertation (flag),
+e90 (belgian pseudopathology codes),,FL_CANCER_CHEMORT_YN,Reimbursement of chemo- or radiotherapy (flag),

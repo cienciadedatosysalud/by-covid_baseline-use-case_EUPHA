@@ -1,0 +1,62 @@
+classification_system,code,code_clean,description,source
+snomed-ct,127040003,127040003,Sickle cell-hemoglobin SS disease (disorder),
+icd-10-mc,D57,D57,Sickle cell disorders,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.0,D570,Hb-SS disease with crisis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.00,D5700,"Hb-SS disease with crisis, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.01,D5701,Hb-SS disease with acute chest syndrome,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.02,D5702,Hb-SS disease with splenic sequestration,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.03,D5703,Hb-SS disease with cerebral vascular involvement,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.09,D5709,"Hb-SS disease with crisis, with other specified complication",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.1,D571,Sickle cell disease without crisis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.2,D572,Sickle cell disease/Hb-C,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.20,D5720,Sickle cell disease/Hb-C without crises,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.21,D5721,Sickle cell disease/Hb-C with crisis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.211,D57211,Sickle cell disease/Hb-C with acute chest syndrome,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.212,D57212,Sickle cell disease/Hb-C with splenic sequestration,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.213,D57213,Sickle cell disease/Hb-C with cerebral vascular involvement,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.218,D57218,"Sickle cell disease/Hb-C with crisis, with other specified complication",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.219,D57219,"Sickle cell disease/Hb-C with crisis, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.3,D573,Sickle cell trait,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.4,D574,Sickle cell thalassaemia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.40,D5740,Sickle cell thalassaemia without crisis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.41,D5741,"Sickle cell thalassaemia, unspecified, with crises",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.411,D57411,"Sickle-cell thalassaemia, unspecified, with acute chest syndrome",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.412,D57412,"Sickle cell thalassaemia, unspecified, with splenic sequestration",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.413,D57413,"Sickle cell thalassaemia, unspecified, with cerebral vascular involvement",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.418,D57418,"Sickle cell thalassaemia, unspecified, with crisis, with other specified complication",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.419,D57419,"Sickle cell thalassaemia, unspecified, with crisis",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.42,D5742,Sickle-cell thalassemia beta zero without crisis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.43,D5743,Sickle cell thalassaemia beta zero with crisis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.431,D57431,Sickle beta zero sickle cell thalassaemia with acute chest syndrome,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.432,D57432,Beta zero sickle cell thalassaemia with splenic sequestration,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.433,D57433,Sickle beta zero thalassaemia with cerebral vascular involvement,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.438,D57438,Sickle beta zero thalassaemia with crisis with other specified complication,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.439,D57439,"Beta zero sickle cell thalassaemia with crisis, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.44,D5744,Sickle sickle beta plus thalassaemia without crisis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.45,D5745,Sickle sickle beta plus thalassaemia with crisis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.451,D57451,Sickle sickle beta plus thalassaemia with acute chest syndrome,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.452,D57452,Beta plus sickle cell thalassaemia with splenic sequestration,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.453,D57453,Beta plus sickle-cell sickle cell disease with cerebral vascular involvement,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.458,D57458,Beta plus sickle cell thalassaemia with crisis with other specified complication,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.459,D57459,"Beta plus sickle cell thalassaemia with crisis, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.8,D578,Other sickle cell disorders,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.80,D5780,Other sickle cell disorders without crisis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.81,D5781,Other sickle cell disorders with crisis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.811,D57811,Other sickle cell disorders with acute chest syndrome,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.812,D57812,Other sickle cell disorders with splenic sequestration,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.813,D57813,Other sickle cell disorders with cerebral vascular involvement,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.818,D57818,Other sickle cell disorders with crisis with other specified complication,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-10-mc,D57.819,D57819,"Other sickle cell disorders with crisis, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,282.42,28242,Sickle cell thalassaemia with crisis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,282.5,2825,depranocytic trait,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,282.6,2826,depranocytic disease,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,282.60,28260,"sickle cell disease, unspecified",https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,282.61,28261,haemoglobin-ss sindrome disease without crisis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,282.62,28262,haemoglobin-ss disease with crisis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,282.63,28263,sickle cell disease haemoglobin c without crises,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,282.64,28264,sickle cell disease haemoglobin c with crises,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,282.68,28268,other sickle cell disease without crisis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,282.69,28269,other sickle cell disease with crisis,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,282.7,2827,other haemoglobinopathies,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,282.8,2828,other specified hereditary haemolytic haemolytic anaemias,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
+icd-09-mc,282.9,2829,unspecified hereditary haemolytic haemolytic anaemia,https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp
