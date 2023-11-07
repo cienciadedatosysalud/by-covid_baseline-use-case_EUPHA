@@ -22,6 +22,7 @@ singularity run -f -w bycovid-eupha.sif
 ```
 
 # References
+- Common Data Model Builder Tutorial (Google Colab): https://github.com/cienciadedatosysalud/tutorial_cdmb_EUPHA
 - Data Science for Health Services and Policy Research group: https://cienciadedatosysalud.org/en/
 - Common Data Model Builder library: https://github.com/cienciadedatosysalud/cdmb
 - Analytic Software Pipeline Interface for Reproducible Execution (ASPIRE): https://github.com/cienciadedatosysalud/ASPIRE
