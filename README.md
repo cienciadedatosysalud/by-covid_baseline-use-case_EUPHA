@@ -1,4 +1,17 @@
-# by-covid_baseline-use-case_EUPHA
+![logo](https://eupha.org/images/EUPHA_logo.svg)
+![logo2](https://ephconference.eu/site_images/logo_EPH_site.svg)
+# Pre-conference: Reuse of sensitive individual data – Methods and tools for a federated approach
+---
+# BY-COVID Baseline Use Case (EUPHA)
+### - Author: **Francisco Estupiñan-Romero**, Institute for Health Sciences (Spain)
+### - Email: <festupinnan@iacs.es>
+
+
+### - Author: **Enrique Bernal-Delgado MD PhD**, Institute for Health Sciences (Spain)
+### - Email: <ebernal@iacs.es>
+
+
+---
 
 
 ## HOW TO RUN IN DOCKER
